@@ -694,19 +694,22 @@
                 "productID": "ST04",
                 "variant": "0",
                 "artUrl": "/ST04/ST04-017.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Kazuyuki Hayashi"
             },
             {
                 "productID": "ST04",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/ST04/ST04-017_Pre.jpg"
+                "artUrl": "/ST04/ST04-017_Pre.jpg",
+                "artist": "Kazuyuki Hayashi"
             },
             {
                 "productID": "ST04",
                 "variant": "Reprint",
                 "label": "Reprint",
-                "artUrl": "/ST04/ST04-017_Reprint.jpg"
+                "artUrl": "/ST04/ST04-017_Reprint.jpg",
+                "artist": "Kazuyuki Hayashi"
             }
         ],
         "rarity": "C",

@@ -37,7 +37,8 @@
                 "productID": "ST06",
                 "variant": "0",
                 "artUrl": "/ST06/ST06-002.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "BISAI"
             },
             {
                 "productID": "ST06",
@@ -64,7 +65,7 @@
         "trigger": []
     },
     {
-        "name": "Django",
+        "name": "Jango",
         "id": "ST06-003",
         "cardNo": "003",
         "set": "ST06",
@@ -101,7 +102,8 @@
                 "productID": "ST06",
                 "variant": "0",
                 "artUrl": "/ST06/ST06-004.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Nijihayashi"
             }
         ],
         "rarity": "SR",
@@ -286,7 +288,8 @@
                 "productID": "ST06",
                 "variant": "0",
                 "artUrl": "/ST06/ST06-010.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "BISAI"
             }
         ],
         "rarity": "C",
@@ -316,7 +319,8 @@
                 "productID": "ST06",
                 "variant": "0",
                 "artUrl": "/ST06/ST06-011.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "HISASHI HUJIWARA"
             }
         ],
         "rarity": "C",
@@ -374,7 +378,8 @@
                 "productID": "ST06",
                 "variant": "0",
                 "artUrl": "/ST06/ST06-013.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "HISASHI HUJIWARA"
             }
         ],
         "rarity": "C",
@@ -393,7 +398,7 @@
         "trigger": []
     },
     {
-        "name": "Impact Wave",
+        "name": "Shockwave",
         "id": "ST06-014",
         "cardNo": "014",
         "set": "ST06",
@@ -480,7 +485,7 @@
         ]
     },
     {
-        "name": "Marineford",
+        "name": "Navy HQ",
         "id": "ST06-017",
         "cardNo": "017",
         "set": "ST06",

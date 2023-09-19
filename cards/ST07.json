@@ -38,7 +38,8 @@
                 "productID": "ST07",
                 "variant": "0",
                 "artUrl": "/ST07/ST07-002.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Misa Matoki"
             }
         ],
         "rarity": "C",
@@ -96,7 +97,8 @@
                 "productID": "ST07",
                 "variant": "0",
                 "artUrl": "/ST07/ST07-004.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "kankurou"
             }
         ],
         "rarity": "C",
@@ -126,7 +128,8 @@
                 "productID": "ST07",
                 "variant": "0",
                 "artUrl": "/ST07/ST07-005.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "kankurou"
             }
         ],
         "rarity": "C",
@@ -147,7 +150,7 @@
         "trigger": []
     },
     {
-        "name": "Charlotte Flampee",
+        "name": "Charlotte Flampe",
         "id": "ST07-006",
         "cardNo": "006",
         "set": "ST07",
@@ -156,7 +159,8 @@
                 "productID": "ST07",
                 "variant": "0",
                 "artUrl": "/ST07/ST07-006.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Misa Matoki"
             }
         ],
         "rarity": "C",
@@ -175,7 +179,7 @@
         "trigger": []
     },
     {
-        "name": "Charlotte Brûlée",
+        "name": "Charlotte Brulee",
         "id": "ST07-007",
         "cardNo": "007",
         "set": "ST07",
@@ -273,7 +277,7 @@
         "trigger": []
     },
     {
-        "name": "Charlotte Mont-D'Or",
+        "name": "Charlotte Mont-d'or",
         "id": "ST07-009",
         "cardNo": "009",
         "set": "ST07",
@@ -282,7 +286,8 @@
                 "productID": "ST07",
                 "variant": "0",
                 "artUrl": "/ST07/ST07-009.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "BISAI"
             }
         ],
         "rarity": "C",
@@ -314,7 +319,8 @@
                 "productID": "ST07",
                 "variant": "0",
                 "artUrl": "/ST07/ST07-010.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "BISAI"
             }
         ],
         "rarity": "SR",
@@ -347,7 +353,8 @@
                 "productID": "ST07",
                 "variant": "0",
                 "artUrl": "/ST07/ST07-011.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "HISASHI HUJIWARA"
             }
         ],
         "rarity": "C",
@@ -408,7 +415,8 @@
                 "productID": "ST07",
                 "variant": "0",
                 "artUrl": "/ST07/ST07-013.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "HISASHI HUJIWARA"
             }
         ],
         "rarity": "C",

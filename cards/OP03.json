@@ -15,7 +15,8 @@
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-001_p.jpg"
+                "artUrl": "/OP03/OP03-001_p.jpg",
+                "artist": "Anderson"
             },
             {
                 "productID": "OP03",
@@ -49,7 +50,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-002.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "BISAI"
             }
         ],
         "rarity": "UC",
@@ -79,7 +81,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-003.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "kankurou"
             }
         ],
         "rarity": "R",
@@ -110,7 +113,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-004.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "kankurou"
             }
         ],
         "rarity": "C",
@@ -141,7 +145,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-005.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "touge369"
             }
         ],
         "rarity": "UC",
@@ -171,7 +176,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-006.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "kankurou"
             }
         ],
         "rarity": "C",
@@ -199,7 +205,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-007.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Misa Tsutsui"
             }
         ],
         "rarity": "C",
@@ -228,7 +235,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-008.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "akagi"
             }
         ],
         "rarity": "UC",
@@ -289,7 +297,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-010.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "HISASHI HUJIWARA"
             }
         ],
         "rarity": "C",
@@ -349,7 +358,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-012.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "TAPIOCA"
             }
         ],
         "rarity": "R",
@@ -379,13 +389,15 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-013.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Studio Vigor Co.,Ltd"
             },
             {
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-013_p.jpg"
+                "artUrl": "/OP03/OP03-013_p.jpg",
+                "artist": "tatsuya"
             }
         ],
         "rarity": "SR",
@@ -446,7 +458,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-015.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "NIJIMAARC"
             }
         ],
         "rarity": "UC",
@@ -541,7 +554,8 @@
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-018_p.jpg"
+                "artUrl": "/OP03/OP03-018_p.jpg",
+                "artist": "Makitoshi"
             }
         ],
         "rarity": "R",
@@ -599,7 +613,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-020.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Nijihayashi"
             }
         ],
         "rarity": "C",
@@ -632,7 +647,8 @@
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-021_p.jpg"
+                "artUrl": "/OP03/OP03-021_p.jpg",
+                "artist": "Anderson"
             }
         ],
         "rarity": "L",
@@ -667,7 +683,8 @@
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-022_p.jpg"
+                "artUrl": "/OP03/OP03-022_p.jpg",
+                "artist": "Anderson"
             }
         ],
         "rarity": "L",
@@ -698,7 +715,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-023.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "phima"
             }
         ],
         "rarity": "C",
@@ -733,7 +751,8 @@
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-024_p.jpg"
+                "artUrl": "/OP03/OP03-024_p.jpg",
+                "artist": "Makitoshi"
             }
         ],
         "rarity": "R",
@@ -764,13 +783,15 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-025.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Ryuda"
             },
             {
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-025_p.jpg"
+                "artUrl": "/OP03/OP03-025_p.jpg",
+                "artist": "Studio Vigor Co.,Ltd"
             }
         ],
         "rarity": "SR",
@@ -802,7 +823,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-026.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Nekobayashi"
             }
         ],
         "rarity": "UC",
@@ -834,7 +856,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-027.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Minato Sashima"
             }
         ],
         "rarity": "C",
@@ -846,7 +869,7 @@
             "green"
         ],
         "effect": [
-            "[On Play] If your leader has the {East Blue} type, rest up to 1 of your opponent’s cost 2 or lower Characters. If you don't have [Butchie], play up to 1 [Butchie] from your hand."
+            "[On Play] If your leader has the {East Blue} type, rest up to 1 of your opponent’s cost 2 or lower Characters. If you don't have [Buchi], play up to 1 [Buchi] from your hand."
         ],
         "type": "character",
         "power": 4000,
@@ -856,7 +879,7 @@
         "trigger": []
     },
     {
-        "name": "Django",
+        "name": "Jango",
         "id": "OP03-028",
         "cardNo": "028",
         "set": "OP03",
@@ -889,7 +912,7 @@
         "trigger": []
     },
     {
-        "name": "Choo",
+        "name": "Chew",
         "id": "OP03-029",
         "cardNo": "029",
         "set": "OP03",
@@ -898,7 +921,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-029.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Misa Matoki"
             }
         ],
         "rarity": "UC",
@@ -932,7 +956,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-030.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "nuisuke"
             }
         ],
         "rarity": "R",
@@ -965,7 +990,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-031.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Hayaken-sarena"
             }
         ],
         "rarity": "C",
@@ -996,7 +1022,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-032.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Ryuda"
             }
         ],
         "rarity": "C",
@@ -1027,7 +1054,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-033.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Moopic"
             }
         ],
         "rarity": "UC",
@@ -1050,7 +1078,7 @@
         ]
     },
     {
-        "name": "Butchie",
+        "name": "Buchi",
         "id": "OP03-034",
         "cardNo": "034",
         "set": "OP03",
@@ -1059,7 +1087,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-034.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "kankurou"
             }
         ],
         "rarity": "UC",
@@ -1090,7 +1119,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-035.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "kankurou"
             }
         ],
         "rarity": "C",
@@ -1171,7 +1201,7 @@
         ]
     },
     {
-        "name": "MH5",
+        "name": "Deathly Poison Gas Bomb MH5",
         "id": "OP03-038",
         "cardNo": "038",
         "set": "OP03",
@@ -1201,7 +1231,7 @@
         ]
     },
     {
-        "name": "One Two Django",
+        "name": "One, Two, Jango",
         "id": "OP03-039",
         "cardNo": "039",
         "set": "OP03",
@@ -1246,7 +1276,8 @@
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-040_p.jpg"
+                "artUrl": "/OP03/OP03-040_p.jpg",
+                "artist": "Anderson"
             }
         ],
         "rarity": "L",
@@ -1275,13 +1306,15 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-041.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Studio Vigor Co.,Ltd"
             },
             {
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-041_p.jpg"
+                "artUrl": "/OP03/OP03-041_p.jpg",
+                "artist": "Denim2"
             }
         ],
         "rarity": "SR",
@@ -1303,7 +1336,7 @@
         "trigger": []
     },
     {
-        "name": "Usopp Pirates",
+        "name": "Usopp's Pirate Crew",
         "id": "OP03-042",
         "cardNo": "042",
         "set": "OP03",
@@ -1312,7 +1345,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-042.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Nekobayashi"
             }
         ],
         "rarity": "C",
@@ -1342,7 +1376,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-043.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Suzume Muraichi"
             }
         ],
         "rarity": "C",
@@ -1372,7 +1407,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-044.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "UGUME"
             }
         ],
         "rarity": "R",
@@ -1402,7 +1438,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-045.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "kankurou"
             }
         ],
         "rarity": "UC",
@@ -1433,7 +1470,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-046.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "touge369"
             }
         ],
         "rarity": "C",
@@ -1467,7 +1505,8 @@
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-047_p.jpg"
+                "artUrl": "/OP03/OP03-047_p.jpg",
+                "artist": "Mitsuaki Matsumoto"
             }
         ],
         "rarity": "R",
@@ -1498,7 +1537,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-048.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Hatori Kyoka"
             }
         ],
         "rarity": "UC",
@@ -1528,7 +1568,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-049.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "kankurou"
             }
         ],
         "rarity": "UC",
@@ -1558,7 +1599,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-050.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Nijihayashi"
             }
         ],
         "rarity": "UC",
@@ -1580,7 +1622,7 @@
         "trigger": []
     },
     {
-        "name": "Bell-Mère",
+        "name": "Bell-mère",
         "id": "OP03-051",
         "cardNo": "051",
         "set": "OP03",
@@ -1589,7 +1631,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-051.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Hashimoto Q"
             }
         ],
         "rarity": "R",
@@ -1621,7 +1664,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-052.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Akihiro MIYANO"
             }
         ],
         "rarity": "C",
@@ -1649,7 +1693,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-053.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "TAPIOCA"
             }
         ],
         "rarity": "C",
@@ -1804,7 +1849,8 @@
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-058_p.jpg"
+                "artUrl": "/OP03/OP03-058_p.jpg",
+                "artist": "Anderson"
             }
         ],
         "rarity": "L",
@@ -1834,7 +1880,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-059.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Nijihayashi"
             }
         ],
         "rarity": "UC",
@@ -1865,7 +1912,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-060.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Sunohana"
             }
         ],
         "rarity": "UC",
@@ -1896,7 +1944,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-061.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Hashimoto Q"
             }
         ],
         "rarity": "C",
@@ -1988,7 +2037,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-064.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "HISASHI HUJIWARA"
             }
         ],
         "rarity": "C",
@@ -2010,7 +2060,7 @@
         "trigger": []
     },
     {
-        "name": "Chimney & Gombe",
+        "name": "Chimney & Gonbe",
         "id": "OP03-065",
         "cardNo": "065",
         "set": "OP03",
@@ -2019,7 +2069,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-065.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Suzume Muraichi"
             }
         ],
         "rarity": "C",
@@ -2050,13 +2101,15 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-066.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "touge369"
             },
             {
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-066_p.jpg"
+                "artUrl": "/OP03/OP03-066_p.jpg",
+                "artist": "BISAI"
             }
         ],
         "rarity": "SR",
@@ -2087,7 +2140,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-067.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "HISASHI HUJIWARA"
             }
         ],
         "rarity": "UC",
@@ -2118,7 +2172,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-068.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "shosuke"
             }
         ],
         "rarity": "C",
@@ -2181,7 +2236,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-070.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Nekobayashi"
             }
         ],
         "rarity": "R",
@@ -2212,7 +2268,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-071.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Denim2"
             }
         ],
         "rarity": "R",
@@ -2234,7 +2291,7 @@
         "trigger": []
     },
     {
-        "name": "Gum Gum JET Gatling",
+        "name": "Gum-Gum Jet Gatling",
         "id": "OP03-072",
         "cardNo": "072",
         "set": "OP03",
@@ -2365,7 +2422,8 @@
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-076_p.jpg"
+                "artUrl": "/OP03/OP03-076_p.jpg",
+                "artist": "Anderson"
             }
         ],
         "rarity": "L",
@@ -2399,7 +2457,8 @@
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-077_p.jpg"
+                "artUrl": "/OP03/OP03-077_p.jpg",
+                "artist": "Anderson"
             }
         ],
         "rarity": "L",
@@ -2429,13 +2488,15 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-078.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "nukadokomogera"
             },
             {
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-078_p.jpg"
+                "artUrl": "/OP03/OP03-078_p.jpg",
+                "artist": "Studio Vigor Co.,Ltd"
             }
         ],
         "rarity": "SR",
@@ -2466,7 +2527,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-079.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "shosuke"
             }
         ],
         "rarity": "UC",
@@ -2497,13 +2559,15 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-080.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "SENNSU"
             },
             {
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-080_p.jpg"
+                "artUrl": "/OP03/OP03-080_p.jpg",
+                "artist": "Studio Vigor Co.,Ltd"
             }
         ],
         "rarity": "SR",
@@ -2533,13 +2597,15 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-081.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "phima"
             },
             {
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-081_p.jpg"
+                "artUrl": "/OP03/OP03-081_p.jpg",
+                "artist": "Hashimoto Q"
             }
         ],
         "rarity": "R",
@@ -2569,7 +2635,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-082.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Nekobayashi"
             }
         ],
         "rarity": "C",
@@ -2627,7 +2694,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-084.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Misa Tsutsui"
             }
         ],
         "rarity": "C",
@@ -2655,7 +2723,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-085.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Akihiro MIYANO"
             }
         ],
         "rarity": "C",
@@ -2683,13 +2752,15 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-086.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "DAI-XT."
             },
             {
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-086_p.jpg"
+                "artUrl": "/OP03/OP03-086_p.jpg",
+                "artist": "Misa Matoki"
             }
         ],
         "rarity": "R",
@@ -2719,7 +2790,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-087.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "NIJIMAARC"
             }
         ],
         "rarity": "C",
@@ -2738,7 +2810,7 @@
         "trigger": []
     },
     {
-        "name": "Fukurô",
+        "name": "Fukurou",
         "id": "OP03-088",
         "cardNo": "088",
         "set": "OP03",
@@ -2747,7 +2819,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-088.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "kankurou"
             }
         ],
         "rarity": "UC",
@@ -2778,7 +2851,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-089.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "HISASHI HUJIWARA"
             }
         ],
         "rarity": "R",
@@ -2808,7 +2882,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-090.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Hayaken-sarena"
             }
         ],
         "rarity": "R",
@@ -2839,7 +2914,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-091.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Sunohana"
             }
         ],
         "rarity": "C",
@@ -2869,13 +2945,15 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-092.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "otumami"
             },
             {
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-092_p.jpg"
+                "artUrl": "/OP03/OP03-092_p.jpg",
+                "artist": "AKIRA EGAWA"
             }
         ],
         "rarity": "SR",
@@ -2905,7 +2983,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-093.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Nekobayashi"
             }
         ],
         "rarity": "UC",
@@ -3086,7 +3165,8 @@
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-099_p.jpg"
+                "artUrl": "/OP03/OP03-099_p.jpg",
+                "artist": "Anderson"
             }
         ],
         "rarity": "L",
@@ -3173,7 +3253,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-102.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "SHIE NANAHARA"
             }
         ],
         "rarity": "R",
@@ -3203,7 +3284,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-103.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "kankurou"
             }
         ],
         "rarity": "C",
@@ -3222,7 +3304,7 @@
         "trigger": []
     },
     {
-        "name": "Sharley",
+        "name": "Shirley",
         "id": "OP03-104",
         "cardNo": "104",
         "set": "OP03",
@@ -3231,7 +3313,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-104.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "jugemt"
             }
         ],
         "rarity": "UC",
@@ -3294,7 +3377,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-106.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Nekobayashi"
             }
         ],
         "rarity": "C",
@@ -3322,7 +3406,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-107.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "phima"
             }
         ],
         "rarity": "C",
@@ -3352,13 +3437,15 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-108.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Misa Tsutsui"
             },
             {
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-108_p.jpg"
+                "artUrl": "/OP03/OP03-108_p.jpg",
+                "artist": "Koushi Rokushiro"
             }
         ],
         "rarity": "SR",
@@ -3388,7 +3475,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-109.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "kankurou"
             }
         ],
         "rarity": "C",
@@ -3418,7 +3506,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-110.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "NIJIMAARC"
             }
         ],
         "rarity": "R",
@@ -3448,7 +3537,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-111.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Hatori Kyoka"
             }
         ],
         "rarity": "C",
@@ -3477,13 +3567,15 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-112.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Hashimoto Q"
             },
             {
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-112_p.jpg"
+                "artUrl": "/OP03/OP03-112_p.jpg",
+                "artist": "Sunohana"
             }
         ],
         "rarity": "R",
@@ -3513,13 +3605,15 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-113.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "DAI-XT."
             },
             {
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-113_p.jpg"
+                "artUrl": "/OP03/OP03-113_p.jpg",
+                "artist": "BISAI"
             }
         ],
         "rarity": "SR",
@@ -3551,13 +3645,15 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-114.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Yosuke Adachi"
             },
             {
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-114_p.jpg"
+                "artUrl": "/OP03/OP03-114_p.jpg",
+                "artist": "Hayaken-sarena"
             }
         ],
         "rarity": "SR",
@@ -3618,7 +3714,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-116.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "nuisuke"
             }
         ],
         "rarity": "UC",
@@ -3650,7 +3747,8 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-117.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Misa Matoki"
             }
         ],
         "rarity": "UC",
@@ -3804,7 +3902,8 @@
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-122_p.jpg"
+                "artUrl": "/OP03/OP03-122_p.jpg",
+                "artist": "Ryuda"
             },
             {
                 "productID": "OP03",
@@ -3841,13 +3940,15 @@
                 "productID": "OP03",
                 "variant": "0",
                 "artUrl": "/OP03/OP03-123.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Studio Vigor Co.,Ltd"
             },
             {
                 "productID": "OP03",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP03/OP03-123_p.jpg"
+                "artUrl": "/OP03/OP03-123_p.jpg",
+                "artist": "Makitoshi"
             }
         ],
         "rarity": "SEC",

@@ -79,13 +79,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-003.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Nekobayashi"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-003_Pre.jpg"
+                "artUrl": "/OP02/OP02-003_Pre.jpg",
+                "artist": "Nekobayashi"
             }
         ],
         "rarity": "C",
@@ -113,7 +115,8 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-004.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "tatsuya"
             },
             {
                 "productID": "OP02",
@@ -151,7 +154,8 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-005.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Misa Tsutsui"
             }
         ],
         "rarity": "UC",
@@ -181,13 +185,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-006.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "HISASHI HUJIWARA"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-006_Pre.jpg"
+                "artUrl": "/OP02/OP02-006_Pre.jpg",
+                "artist": "HISASHI HUJIWARA"
             }
         ],
         "rarity": "C",
@@ -215,7 +221,8 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-007.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "kankurou"
             },
             {
                 "productID": "OP02",
@@ -249,7 +256,8 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-008.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Nijihayashi"
             },
             {
                 "productID": "OP02",
@@ -285,19 +293,22 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-009.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Hayaken-sarena"
             },
             {
                 "productID": "OP02",
                 "variant": "BT",
                 "label": "BT",
-                "artUrl": "/OP02/OP02-009_BT.jpg"
+                "artUrl": "/OP02/OP02-009_BT.jpg",
+                "artist": "Hayaken-sarena"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-009_Pre.jpg"
+                "artUrl": "/OP02/OP02-009_Pre.jpg",
+                "artist": "Hayaken-sarena"
             }
         ],
         "rarity": "UC",
@@ -327,13 +338,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-010.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Nekobayashi"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-010_Pre.jpg"
+                "artUrl": "/OP02/OP02-010_Pre.jpg",
+                "artist": "Nekobayashi"
             }
         ],
         "rarity": "C",
@@ -363,7 +376,8 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-011.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "BISAI"
             }
         ],
         "rarity": "R",
@@ -393,13 +407,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-012.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Misa Tsutsui"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-012_Pre.jpg"
+                "artUrl": "/OP02/OP02-012_Pre.jpg",
+                "artist": "Misa Tsutsui"
             }
         ],
         "rarity": "C",
@@ -471,13 +487,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-014.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Hashimoto Q"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-014_Pre.jpg"
+                "artUrl": "/OP02/OP02-014_Pre.jpg",
+                "artist": "Hashimoto Q"
             }
         ],
         "rarity": "UC",
@@ -549,13 +567,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-016.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Nekobayashi"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-016_Pre.jpg"
+                "artUrl": "/OP02/OP02-016_Pre.jpg",
+                "artist": "Nekobayashi"
             }
         ],
         "rarity": "C",
@@ -621,13 +641,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-018.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "otumami"
             },
             {
                 "productID": "OP02",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP02/OP02-018_p.jpg"
+                "artUrl": "/OP02/OP02-018_p.jpg",
+                "artist": "Nakano Haito"
             },
             {
                 "productID": "OP02",
@@ -664,13 +686,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-019.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "BISAI"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-019_Pre.jpg"
+                "artUrl": "/OP02/OP02-019_Pre.jpg",
+                "artist": "BISAI"
             }
         ],
         "rarity": "UC",
@@ -700,13 +724,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-020.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Nekobayashi"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-020_Pre.jpg"
+                "artUrl": "/OP02/OP02-020_Pre.jpg",
+                "artist": "Nekobayashi"
             }
         ],
         "rarity": "C",
@@ -941,13 +967,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-027.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "kankurou"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-027_Pre.jpg"
+                "artUrl": "/OP02/OP02-027_Pre.jpg",
+                "artist": "kankurou"
             }
         ],
         "rarity": "UC",
@@ -1014,7 +1042,8 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-029.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Suzume Muraichi"
             }
         ],
         "rarity": "R",
@@ -1044,13 +1073,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-030.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Misa Matoki"
             },
             {
                 "productID": "OP02",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP02/OP02-030_p.jpg"
+                "artUrl": "/OP02/OP02-030_p.jpg",
+                "artist": "TAPIOCA"
             }
         ],
         "rarity": "SR",
@@ -1082,19 +1113,22 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-031.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "SHIE NANAHARA"
             },
             {
                 "productID": "OP02",
                 "variant": "BT",
                 "label": "BT",
-                "artUrl": "/OP02/OP02-031_BT.jpg"
+                "artUrl": "/OP02/OP02-031_BT.jpg",
+                "artist": "SHIE NANAHARA"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-031_Pre.jpg"
+                "artUrl": "/OP02/OP02-031_Pre.jpg",
+                "artist": "SHIE NANAHARA"
             }
         ],
         "rarity": "UC",
@@ -1125,13 +1159,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-032.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Hatori Kyoka"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-032_Pre.jpg"
+                "artUrl": "/OP02/OP02-032_Pre.jpg",
+                "artist": "Hatori Kyoka"
             }
         ],
         "rarity": "UC",
@@ -1383,13 +1419,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-038.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Hayaken-sarena"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-038_Pre.jpg"
+                "artUrl": "/OP02/OP02-038_Pre.jpg",
+                "artist": "Hayaken-sarena"
             }
         ],
         "rarity": "C",
@@ -1493,7 +1531,8 @@
                 "productID": "OP02",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP02/OP02-041_p.jpg"
+                "artUrl": "/OP02/OP02-041_p.jpg",
+                "artist": "Makitoshi"
             }
         ],
         "rarity": "R",
@@ -1526,7 +1565,8 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-042.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "NIJIMAARC"
             },
             {
                 "productID": "OP02",
@@ -1599,13 +1639,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-044.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Suzume Muraichi"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-044_Pre.jpg"
+                "artUrl": "/OP02/OP02-044_Pre.jpg",
+                "artist": "Suzume Muraichi"
             }
         ],
         "rarity": "C",
@@ -1806,7 +1848,8 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-050.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Suzume Muraichi"
             }
         ],
         "rarity": "R",
@@ -1838,13 +1881,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-051.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "akagi"
             },
             {
                 "productID": "OP02",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP02/OP02-051_p.jpg"
+                "artUrl": "/OP02/OP02-051_p.jpg",
+                "artist": "EBIMO"
             }
         ],
         "rarity": "SR",
@@ -1875,7 +1920,8 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-052.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Studio Vigor Co.,Ltd"
             }
         ],
         "rarity": "C",
@@ -1905,13 +1951,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-053.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Akihiro MIYANO"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-053_Pre.jpg"
+                "artUrl": "/OP02/OP02-053_Pre.jpg",
+                "artist": "Akihiro MIYANO"
             }
         ],
         "rarity": "C",
@@ -1940,13 +1988,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-054.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "nukadokomogera"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-054_Pre.jpg"
+                "artUrl": "/OP02/OP02-054_Pre.jpg",
+                "artist": "nukadokomogera"
             }
         ],
         "rarity": "C",
@@ -1975,13 +2025,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-055.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "BISAI"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-055_Pre.jpg"
+                "artUrl": "/OP02/OP02-055_Pre.jpg",
+                "artist": "BISAI"
             }
         ],
         "rarity": "C",
@@ -2009,13 +2061,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-056.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Mitsuaki Matsumoto"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-056_Pre.jpg"
+                "artUrl": "/OP02/OP02-056_Pre.jpg",
+                "artist": "Mitsuaki Matsumoto"
             }
         ],
         "rarity": "UC",
@@ -2047,13 +2101,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-057.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Misa Tsutsui"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-057_Pre.jpg"
+                "artUrl": "/OP02/OP02-057_Pre.jpg",
+                "artist": "Misa Tsutsui"
             }
         ],
         "rarity": "UC",
@@ -2084,13 +2140,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-058.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Denim2"
             },
             {
                 "productID": "OP02",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP02/OP02-058_p.jpg"
+                "artUrl": "/OP02/OP02-058_p.jpg",
+                "artist": "Ryuda"
             }
         ],
         "rarity": "R",
@@ -2121,19 +2179,22 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-059.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "nuisuke"
             },
             {
                 "productID": "OP02",
                 "variant": "BT",
                 "label": "BT",
-                "artUrl": "/OP02/OP02-059_BT.jpg"
+                "artUrl": "/OP02/OP02-059_BT.jpg",
+                "artist": "nuisuke"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-059_Pre.jpg"
+                "artUrl": "/OP02/OP02-059_Pre.jpg",
+                "artist": "nuisuke"
             },
             {
                 "productID": "OP02",
@@ -2171,13 +2232,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-060.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Anderson"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-060_Pre.jpg"
+                "artUrl": "/OP02/OP02-060_Pre.jpg",
+                "artist": "Anderson"
             }
         ],
         "rarity": "C",
@@ -2205,13 +2268,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-061.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "kankurou"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-061_Pre.jpg"
+                "artUrl": "/OP02/OP02-061_Pre.jpg",
+                "artist": "kankurou"
             }
         ],
         "rarity": "UC",
@@ -2242,13 +2307,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-062.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "otumami"
             },
             {
                 "productID": "OP02",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP02/OP02-062_p.jpg"
+                "artUrl": "/OP02/OP02-062_p.jpg",
+                "artist": "AKIRA EGAWA"
             }
         ],
         "rarity": "SR",
@@ -2279,13 +2346,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-063.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "TAPIOCA"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-063_Pre.jpg"
+                "artUrl": "/OP02/OP02-063_Pre.jpg",
+                "artist": "TAPIOCA"
             }
         ],
         "rarity": "UC",
@@ -2316,7 +2385,8 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-064.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "phima"
             }
         ],
         "rarity": "R",
@@ -2347,7 +2417,8 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-065.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Anderson"
             }
         ],
         "rarity": "R",
@@ -2613,13 +2684,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-073.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "phima"
             },
             {
                 "productID": "OP02",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP02/OP02-073_p.jpg"
+                "artUrl": "/OP02/OP02-073_p.jpg",
+                "artist": "Hashimoto Q"
             },
             {
                 "productID": "OP02",
@@ -2655,13 +2728,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-074.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Suzume Muraichi"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-074_Pre.jpg"
+                "artUrl": "/OP02/OP02-074_Pre.jpg",
+                "artist": "Suzume Muraichi"
             }
         ],
         "rarity": "C",
@@ -2691,7 +2766,8 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-075.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Anderson"
             }
         ],
         "rarity": "R",
@@ -2722,7 +2798,8 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-076.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "shosuke"
             }
         ],
         "rarity": "R",
@@ -2752,13 +2829,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-077.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "NIJIMAARC"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-077_Pre.jpg"
+                "artUrl": "/OP02/OP02-077_Pre.jpg",
+                "artist": "NIJIMAARC"
             }
         ],
         "rarity": "C",
@@ -2787,13 +2866,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-078.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Akihiro MIYANO"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-078_Pre.jpg"
+                "artUrl": "/OP02/OP02-078_Pre.jpg",
+                "artist": "Akihiro MIYANO"
             }
         ],
         "rarity": "UC",
@@ -2824,13 +2905,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-079.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Nijihayashi"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-079_Pre.jpg"
+                "artUrl": "/OP02/OP02-079_Pre.jpg",
+                "artist": "Nijihayashi"
             }
         ],
         "rarity": "UC",
@@ -2861,13 +2944,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-080.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "shosuke"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-080_Pre.jpg"
+                "artUrl": "/OP02/OP02-080_Pre.jpg",
+                "artist": "shosuke"
             }
         ],
         "rarity": "C",
@@ -2896,13 +2981,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-081.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "UGUME"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-081_Pre.jpg"
+                "artUrl": "/OP02/OP02-081_Pre.jpg",
+                "artist": "UGUME"
             }
         ],
         "rarity": "C",
@@ -2968,7 +3055,8 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-083.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Hayaken-sarena"
             }
         ],
         "rarity": "R",
@@ -2998,13 +3086,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-084.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "KISUKE"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-084_Pre.jpg"
+                "artUrl": "/OP02/OP02-084_Pre.jpg",
+                "artist": "KISUKE"
             }
         ],
         "rarity": "C",
@@ -3039,7 +3129,8 @@
                 "productID": "OP02",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP02/OP02-085_p.jpg"
+                "artUrl": "/OP02/OP02-085_p.jpg",
+                "artist": "Studio Vigor Co.,Ltd"
             }
         ],
         "rarity": "SR",
@@ -3070,19 +3161,22 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-086.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "touge369"
             },
             {
                 "productID": "OP02",
                 "variant": "BT",
                 "label": "BT",
-                "artUrl": "/OP02/OP02-086_BT.jpg"
+                "artUrl": "/OP02/OP02-086_BT.jpg",
+                "artist": "touge369"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-086_Pre.jpg"
+                "artUrl": "/OP02/OP02-086_Pre.jpg",
+                "artist": "touge369"
             }
         ],
         "rarity": "UC",
@@ -3114,13 +3208,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-087.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "KISUKE"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-087_Pre.jpg"
+                "artUrl": "/OP02/OP02-087_Pre.jpg",
+                "artist": "KISUKE"
             }
         ],
         "rarity": "UC",
@@ -3152,13 +3248,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-088.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "HISASHI HUJIWARA"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-088_Pre.jpg"
+                "artUrl": "/OP02/OP02-088_Pre.jpg",
+                "artist": "HISASHI HUJIWARA"
             }
         ],
         "rarity": "C",
@@ -3389,13 +3487,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-095.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "nukadokomogera"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-095_Pre.jpg"
+                "artUrl": "/OP02/OP02-095_Pre.jpg",
+                "artist": "nukadokomogera"
             }
         ],
         "rarity": "UC",
@@ -3425,13 +3525,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-096.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Makitoshi"
             },
             {
                 "productID": "OP02",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP02/OP02-096_p.jpg"
+                "artUrl": "/OP02/OP02-096_p.jpg",
+                "artist": "tatsuya"
             },
             {
                 "productID": "OP02",
@@ -3468,7 +3570,8 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-097.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "kankurou"
             }
         ],
         "rarity": "C",
@@ -3496,7 +3599,8 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-098.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "kankurou"
             },
             {
                 "productID": "OP02",
@@ -3568,13 +3672,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-099.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "tatsuya"
             },
             {
                 "productID": "OP02",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP02/OP02-099_p.jpg"
+                "artUrl": "/OP02/OP02-099_p.jpg",
+                "artist": "Anderson"
             },
             {
                 "productID": "OP02",
@@ -3610,13 +3716,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-100.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "jugemt"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-100_Pre.jpg"
+                "artUrl": "/OP02/OP02-100_Pre.jpg",
+                "artist": "jugemt"
             }
         ],
         "rarity": "C",
@@ -3646,13 +3754,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-101.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Nijihayashi"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-101_Pre.jpg"
+                "artUrl": "/OP02/OP02-101_Pre.jpg",
+                "artist": "Nijihayashi"
             }
         ],
         "rarity": "C",
@@ -3682,7 +3792,8 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-102.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "HISASHI HUJIWARA"
             }
         ],
         "rarity": "R",
@@ -3713,7 +3824,8 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-103.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "BISAI"
             }
         ],
         "rarity": "R",
@@ -3743,13 +3855,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-104.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "jugemt"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-104_Pre.jpg"
+                "artUrl": "/OP02/OP02-104_Pre.jpg",
+                "artist": "jugemt"
             }
         ],
         "rarity": "C",
@@ -3779,19 +3893,22 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-105.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Studio Vigor Co.,Ltd"
             },
             {
                 "productID": "OP02",
                 "variant": "BT",
                 "label": "BT",
-                "artUrl": "/OP02/OP02-105_BT.jpg"
+                "artUrl": "/OP02/OP02-105_BT.jpg",
+                "artist": "Studio Vigor Co.,Ltd"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-105_Pre.jpg"
+                "artUrl": "/OP02/OP02-105_Pre.jpg",
+                "artist": "Studio Vigor Co.,Ltd"
             }
         ],
         "rarity": "C",
@@ -3821,13 +3938,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-106.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Nijihayashi"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-106_Pre.jpg"
+                "artUrl": "/OP02/OP02-106_Pre.jpg",
+                "artist": "Nijihayashi"
             }
         ],
         "rarity": "UC",
@@ -3857,13 +3976,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-107.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "HISASHI HUJIWARA"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-107_Pre.jpg"
+                "artUrl": "/OP02/OP02-107_Pre.jpg",
+                "artist": "HISASHI HUJIWARA"
             }
         ],
         "rarity": "C",
@@ -3891,19 +4012,22 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-108.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Mitsuaki Matsumoto"
             },
             {
                 "productID": "OP02",
                 "variant": "BT",
                 "label": "BT",
-                "artUrl": "/OP02/OP02-108_BT.jpg"
+                "artUrl": "/OP02/OP02-108_BT.jpg",
+                "artist": "Mitsuaki Matsumoto"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-108_Pre.jpg"
+                "artUrl": "/OP02/OP02-108_Pre.jpg",
+                "artist": "Mitsuaki Matsumoto"
             }
         ],
         "rarity": "C",
@@ -3934,13 +4058,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-109.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "HISASHI HUJIWARA"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-109_Pre.jpg"
+                "artUrl": "/OP02/OP02-109_Pre.jpg",
+                "artist": "HISASHI HUJIWARA"
             }
         ],
         "rarity": "C",
@@ -3969,7 +4095,8 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-110.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Hashimoto Q"
             }
         ],
         "rarity": "R",
@@ -4000,13 +4127,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-111.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Moopic"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-111_Pre.jpg"
+                "artUrl": "/OP02/OP02-111_Pre.jpg",
+                "artist": "Moopic"
             }
         ],
         "rarity": "C",
@@ -4036,13 +4165,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-112.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "UGUME"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-112_Pre.jpg"
+                "artUrl": "/OP02/OP02-112_Pre.jpg",
+                "artist": "UGUME"
             }
         ],
         "rarity": "UC",
@@ -4072,13 +4203,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-113.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Koushi Rokushiro"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-113_Pre.jpg"
+                "artUrl": "/OP02/OP02-113_Pre.jpg",
+                "artist": "Koushi Rokushiro"
             },
             {
                 "productID": "OP02",
@@ -4116,13 +4249,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-114.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Anderson"
             },
             {
                 "productID": "OP02",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP02/OP02-114_p.jpg"
+                "artUrl": "/OP02/OP02-114_p.jpg",
+                "artist": "Studio Vigor Co.,Ltd"
             },
             {
                 "productID": "OP02",
@@ -4159,13 +4294,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-115.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Studio Vigor Co.,Ltd"
             },
             {
                 "productID": "OP02",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP02/OP02-115_p.jpg"
+                "artUrl": "/OP02/OP02-115_p.jpg",
+                "artist": "Makitoshi"
             }
         ],
         "rarity": "R",
@@ -4195,13 +4332,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-116.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "touge369"
             },
             {
                 "productID": "OP02",
                 "variant": "Pre",
                 "label": "Pre",
-                "artUrl": "/OP02/OP02-116_Pre.jpg"
+                "artUrl": "/OP02/OP02-116_Pre.jpg",
+                "artist": "touge369"
             }
         ],
         "rarity": "C",
@@ -4334,7 +4473,8 @@
                 "productID": "OP02",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP02/OP02-120_p.jpg"
+                "artUrl": "/OP02/OP02-120_p.jpg",
+                "artist": "Demizu Posuka"
             }
         ],
         "rarity": "SEC",
@@ -4364,13 +4504,15 @@
                 "productID": "OP02",
                 "variant": "0",
                 "artUrl": "/OP02/OP02-121.jpg",
-                "label": "Normal"
+                "label": "Normal",
+                "artist": "Nijihayashi"
             },
             {
                 "productID": "OP02",
                 "variant": "p",
                 "label": "P",
-                "artUrl": "/OP02/OP02-121_p.jpg"
+                "artUrl": "/OP02/OP02-121_p.jpg",
+                "artist": "BISAI"
             }
         ],
         "rarity": "SEC",
