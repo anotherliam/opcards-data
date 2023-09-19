@@ -1,0 +1,3611 @@
+[
+    {
+        "name": "Nefertari.Vivi",
+        "id": "OP04-001",
+        "cardNo": "001",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-001.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "L",
+        "traits": [
+            "Alabasta"
+        ],
+        "colors": [
+            "red",
+            "blue"
+        ],
+        "effect": [],
+        "type": "leader",
+        "power": 5000,
+        "life": 5,
+        "attribute": "slash"
+    },
+    {
+        "name": "Igaram",
+        "id": "OP04-002",
+        "cardNo": "002",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-002.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Alabasta"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Main] You may rest this character and give 1 of your active leaders -5000 Power for the turn: Look at the top 5 cards of your deck, reveal one {Alabasta Kingdom} type card and add it to your hand. Then, place the rest on the bottom of your deck in any order."
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "ranged",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Usopp",
+        "id": "OP04-003",
+        "cardNo": "003",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-003.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Alabasta",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[On K.O.] K.O. up to one of your opponent's Characters with an original power of 5000 or less."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "wisdom",
+        "counter": 1000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Karoo",
+        "id": "OP04-004",
+        "cardNo": "004",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-004.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal",
+            "Alabasta"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Main] You may rest this card: Attach up to 1 rested DON!! to each of your {Alabasta Kingdom} type characters."
+        ],
+        "type": "character",
+        "power": 2000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Kung-fu Dugong",
+        "id": "OP04-005",
+        "cardNo": "005",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-005.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal",
+            "Alabasta"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "If you have a [Kung-Fu Dugong] in play other than this Character, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)"
+        ],
+        "type": "character",
+        "power": 1000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Koza",
+        "id": "OP04-006",
+        "cardNo": "006",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-006.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Alabasta"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[When Attacking] You may give one of your active Leaders -5000 power this turn: This character gains +2000 power until your next start of turn."
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "slash",
+        "counter": 2000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Sanji",
+        "id": "OP04-007",
+        "cardNo": "007",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-007.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Alabasta",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 3000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Chaka",
+        "id": "OP04-008",
+        "cardNo": "008",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-008.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Alabasta"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[DON!!x1] [When Attacking] If your leader is \"Nefertari Vivi\", give up to 1 of your opponent's characters -3000 Power for the turn. Then, K.O. up to 1 of your opponent's characters with 0 Power or less."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "slash",
+        "counter": 0,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Super Spot-Billed Duck Squad",
+        "id": "OP04-009",
+        "cardNo": "009",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-009.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal",
+            "Alabasta"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[When Attacking] Give up to 1 of your active leaders -5000 during this turn: Return this card to your hand at the end of your turn."
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "strike",
+        "counter": 2000,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Chopper",
+        "id": "OP04-010",
+        "cardNo": "010",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-010.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal",
+            "Alabasta",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[On Play] Play up to 1 card of {Animal} type with 3000 Power or less from your hand."
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Nami",
+        "id": "OP04-011",
+        "cardNo": "011",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-011.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Alabasta",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[When Attacking] Reveal 1 card from the top of your deck. If that card was a Character card with 6000 power or more, this Character gains +3000 power during this turn. Then, put the revealed card at the bottom of the deck."
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "wisdom",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Nefertari Cobra",
+        "id": "OP04-012",
+        "cardNo": "012",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-012.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Alabasta"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Your Turn] Other than this character, your {Alabasta Kingdom} type characters gain +1000 Power."
+        ],
+        "type": "character",
+        "power": 0,
+        "attribute": "wisdom",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Pell",
+        "id": "OP04-013",
+        "cardNo": "013",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-013.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "SR",
+        "traits": [
+            "Alabasta"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[DON!! x1] [When Attacking] K.O. up to 1 of your opponent's Characters with 4000 or less Power."
+        ],
+        "type": "character",
+        "power": 6000,
+        "attribute": "slash",
+        "counter": 0,
+        "cost": 5,
+        "trigger": []
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "id": "OP04-014",
+        "cardNo": "014",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-014.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Alabasta",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)"
+        ],
+        "type": "character",
+        "power": 9000,
+        "attribute": "strike",
+        "counter": 0,
+        "cost": 8,
+        "trigger": []
+    },
+    {
+        "name": "Roronoa Zoro",
+        "id": "OP04-015",
+        "cardNo": "015",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-015.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Alabasta",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[On Play] Give up to 1 of your opponent's Characters -2000 power during this turn."
+        ],
+        "type": "character",
+        "power": 6000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 5,
+        "trigger": []
+    },
+    {
+        "name": "Anti-Manner Kick Course",
+        "id": "OP04-016",
+        "cardNo": "016",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-016.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Alabasta",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Counter] You may trash 1 card from your hand: Give up to 1 of your leaders or characters +3000 Power this battle."
+        ],
+        "type": "event",
+        "cost": 0,
+        "trigger": [
+            "Give up to one of your opponent's leaders or characters -3000 Power for this turn."
+        ]
+    },
+    {
+        "name": "Happiness Punch",
+        "id": "OP04-017",
+        "cardNo": "017",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-017.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Alabasta",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Counter] Give up to 1 one of opponent's leaders or characters -2000 Power for the turn. Then, if your leader is active, give up to 1 of your opponent's leaders or characters -1000 Power for the turn."
+        ],
+        "type": "event",
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Captivating Dizziness Dance",
+        "id": "OP04-018",
+        "cardNo": "018",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-018.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Alabasta"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Main] If your leader is {Alabasta Kingdom} type, give up to 2 of your opponent's characters -2000 Power for the turn."
+        ],
+        "type": "event",
+        "cost": 3,
+        "trigger": [
+            "Activate this card's [Main] effect."
+        ]
+    },
+    {
+        "name": "Donquixote Doflamingo",
+        "id": "OP04-019",
+        "cardNo": "019",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-019.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "L",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Donquixote Pirates"
+        ],
+        "colors": [
+            "green",
+            "purple"
+        ],
+        "effect": [
+            "[End of Your Turn] Set up to 2 of your DON!! cards as active."
+        ],
+        "type": "leader",
+        "power": 5000,
+        "life": 4,
+        "attribute": "special"
+    },
+    {
+        "name": "Issho",
+        "id": "OP04-020",
+        "cardNo": "020",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-020.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "L",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "green",
+            "black"
+        ],
+        "effect": [
+            "[DON!! x1] [Your Turn] Give -1 cost to all of your opponent's Characters.\r",
+            "[End of Your Turn] (1)  (You may rest the specified number of DON!! cards in your Cost Area): Set up to 1 of your Characters with a cost of 5 or less as active."
+        ],
+        "type": "leader",
+        "power": 5000,
+        "life": 4,
+        "attribute": "special"
+    },
+    {
+        "name": "Violla",
+        "id": "OP04-021",
+        "cardNo": "021",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-021.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Donquixote Pirates"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[On Your Opponent's Attack] (2) (You may rest the specified number of DON!! cards in your Cost Area): Rest up to 1 of your opponent's DON!!."
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "special",
+        "counter": 2000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Eric",
+        "id": "OP04-022",
+        "cardNo": "022",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-022.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "East Blue"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[Main] You may rest this character: Rest up to 1 of your opponent's cost 1 or less characters."
+        ],
+        "type": "character",
+        "power": 2000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Kuro",
+        "id": "OP04-023",
+        "cardNo": "023",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-023.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "East Blue",
+            "Black Cat Pirates"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 8000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 6,
+        "trigger": []
+    },
+    {
+        "name": "Sugar",
+        "id": "OP04-024",
+        "cardNo": "024",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-024.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "SR",
+        "traits": [
+            "Donquixote Pirates"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[Opponent's Turn] [Once Per Turn] When your opponent plays a character card, if your leader has the {Donquixote Pirates} type, rest up to 1 of your opponent's Characters, then rest this card.\r",
+            "[On Play] Rest up to 1 of your opponent's Characters With a cost of 4 or less."
+        ],
+        "type": "character",
+        "power": 0,
+        "attribute": "special",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Giolla",
+        "id": "OP04-025",
+        "cardNo": "025",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-025.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Donquixote Pirates"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[On Opponent's Attack] (2): Rest up to 1 of your opponent's cost 4 or lower characters."
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "special",
+        "counter": 1000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Senor Pink",
+        "id": "OP04-026",
+        "cardNo": "026",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-026.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Donquixote Pirates"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[When Attacking] (1): If your Leader has the {Donquixote Pirates} type, rest up to 1 of your opponent's Characters with a cost of 4 or less. Then, set up to 1 of your DON!! cards as active at the end of this turn."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Daddy Masterson",
+        "id": "OP04-027",
+        "cardNo": "027",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-027.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "East Blue",
+            "Former Navy"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[DON!! x1] [End of Your Turn] Set this Character as active."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "ranged",
+        "counter": 0,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Diamante",
+        "id": "OP04-028",
+        "cardNo": "028",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-028.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Donquixote Pirates"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\r",
+            "[DONx1] [End of Your Turn] If you have 2 or more active DON!!, set this character as active."
+        ],
+        "type": "character",
+        "power": 6000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 5,
+        "trigger": []
+    },
+    {
+        "name": "Dellinger",
+        "id": "OP04-029",
+        "cardNo": "029",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-029.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Donquixote Pirates"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[End of Your Turn] Set up to 1 of your DON!! as active."
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Trebol",
+        "id": "OP04-030",
+        "cardNo": "030",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-030.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Donquixote Pirates"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.\r",
+            "[On Your Opponent's Attack] (2) (You may rest the specified number of DON!! cards in your Cost Area): Set up to 1 of your opponent's Characters with a cost of 4 or less as rested."
+        ],
+        "type": "character",
+        "power": 6000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 6,
+        "trigger": []
+    },
+    {
+        "name": "Donquixote Doflamingo",
+        "id": "OP04-031",
+        "cardNo": "031",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-031.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "SR",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Donquixote Pirates"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[On Play] Select up to 3 of your opponent's rested Characters or Leaders. These do not become active during your opponent's next refresh phase."
+        ],
+        "type": "character",
+        "power": 10000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 10,
+        "trigger": []
+    },
+    {
+        "name": "Baby 5",
+        "id": "OP04-032",
+        "cardNo": "032",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-032.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Donquixote Pirates"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[End of Your Turn] You may trash this character: Set up to 2 of your DON!! as active."
+        ],
+        "type": "character",
+        "power": 1000,
+        "attribute": "strike",
+        "counter": 2000,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Machvise",
+        "id": "OP04-033",
+        "cardNo": "033",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-033.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Donquixote Pirates"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[On Play] If your leader is the {Donquixote Pirates} type, rest up to one of your opponent's 5 cost or lower characters. Then, at the end of the turn, set up to 1 of your DON!! as active."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Lao G",
+        "id": "OP04-034",
+        "cardNo": "034",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-034.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Donquixote Pirates"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[End of Your Turn] If you have 3 or more active DON!!, K.O. up to 1 one of your opponent's rested characters of 3 or less."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Spider's Web",
+        "id": "OP04-035",
+        "cardNo": "035",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-035.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Donquixote Pirates"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[Counter] Up to 1 of your leaders or characters gains +4000 Power for this battle. Then, set up to 1 of your characters as active."
+        ],
+        "type": "event",
+        "cost": 2,
+        "trigger": [
+            "Up to 1 of your leaders gains +2000 Power for the turn."
+        ]
+    },
+    {
+        "name": "Donquixote Family",
+        "id": "OP04-036",
+        "cardNo": "036",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-036.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Donquixote Pirates"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[Counter] Look at the top 5 cards of your deck, reveal one {Donquixote Pirates} character and add it to your hand. Place the rest at the bottom of your deck in any order."
+        ],
+        "type": "event",
+        "cost": 1,
+        "trigger": [
+            "Activate this card's [Counter] effect"
+        ]
+    },
+    {
+        "name": "Flap Thread",
+        "id": "OP04-037",
+        "cardNo": "037",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-037.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Donquixote Pirates"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[Counter] If your leader is the {Donquixote Pirates} type, up to 1 of your leaders or characters gains +2000 Power this turn."
+        ],
+        "type": "event",
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Weaklings Can't Choose the Way They Die",
+        "id": "OP04-038",
+        "cardNo": "038",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-038.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Donquixote Pirates"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[Main] / [Counter] Rest up to 1 of your opponent's leaders or characters. then, K.O. up to 1 of your opponent's rested 6 cost or lower characters."
+        ],
+        "type": "event",
+        "cost": 5,
+        "trigger": [
+            "Set up to 5 of your Don!! as active."
+        ]
+    },
+    {
+        "name": "Rebecca",
+        "id": "OP04-039",
+        "cardNo": "039",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-039.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "L",
+        "traits": [
+            "Dressrosa"
+        ],
+        "colors": [
+            "blue",
+            "black"
+        ],
+        "effect": [
+            "This Leader can not attack.\r",
+            "[Activate: Main] [Once Per Turn] (1) (You may rest the specified number of DON!! cards in your Cost Area): If you have 6 or less cards in hand, look at the top 2 cards of your deck, reveal up to one {Dressrosa} type card and add it to your hand. After that, place the remaining cards in the trash."
+        ],
+        "type": "leader",
+        "power": 5000,
+        "life": 5,
+        "attribute": "slash"
+    },
+    {
+        "name": "Queen",
+        "id": "OP04-040",
+        "cardNo": "040",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-040.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "L",
+        "traits": [
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "blue",
+            "yellow"
+        ],
+        "effect": [
+            "[DON!! x1] [When Attacking] If the total number of cards in your Life and hand is 4 or less, draw 1 card. If you have a Character with a cost of 8 or more, you may place up to 1 card from the top of your deck on top of your Life instead of drawing 1 card."
+        ],
+        "type": "leader",
+        "power": 5000,
+        "life": 4,
+        "attribute": "ranged"
+    },
+    {
+        "name": "Apis",
+        "id": "OP04-041",
+        "cardNo": "041",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-041.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "East Blue"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[On Play] You may trash 2 cards in your hand: Look at the top 5 cards of your deck, reveal up to 1 card with the {East Blue} type and add it to your hand. Place the remaining cards at the bottom of your deck in any order."
+        ],
+        "type": "character",
+        "power": 0,
+        "attribute": "wisdom",
+        "counter": 2000,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Ipponmatsu",
+        "id": "OP04-042",
+        "cardNo": "042",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-042.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "East Blue"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[On Play] Up to 1 of your characters with the {Slash} attribute gain +3000 Power this turn. Then, trash 1 card from the top of your deck."
+        ],
+        "type": "character",
+        "power": 1000,
+        "attribute": "wisdom",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Ulti",
+        "id": "OP04-043",
+        "cardNo": "043",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-043.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[DON!!x1] [When Attacking] Return up to 1 cost 2 or lower character to it's owner's hand or top of deck."
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Kaido",
+        "id": "OP04-044",
+        "cardNo": "044",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-044.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "SR",
+        "traits": [
+            "Animal Kingdom Pirates",
+            "The Four Emperors"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[On Play] Return up to 1 Character that costs 8 or less and up to 1 Character that costs 3 or less to the owners'  hand. "
+        ],
+        "type": "character",
+        "power": 12000,
+        "attribute": "strike",
+        "counter": 0,
+        "cost": 10,
+        "trigger": []
+    },
+    {
+        "name": "King",
+        "id": "OP04-045",
+        "cardNo": "045",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-045.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[On Play] Draw 1 card."
+        ],
+        "type": "character",
+        "power": 8000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 7,
+        "trigger": []
+    },
+    {
+        "name": "Queen",
+        "id": "OP04-046",
+        "cardNo": "046",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-046.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[On Play] If your Leader has the {Animal Kingdom Pirates} type, look at up to 7 cards from the top of your deck, reveal up to 2 total [Plague Rounds] or [Ice Oni] and add them to your hand. Then, place the rest at the bottom of your deck in any order."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Ice Oni",
+        "id": "OP04-047",
+        "cardNo": "047",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-047.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Plague",
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[Your Turn] At the end of battle against an opponent's 5 cost or lower character, place that character at the bottom of the owner's deck."
+        ],
+        "type": "character",
+        "power": 0,
+        "attribute": "special",
+        "counter": 1000,
+        "cost": 6,
+        "trigger": []
+    },
+    {
+        "name": "Sasaki",
+        "id": "OP04-048",
+        "cardNo": "048",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-048.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[On Play] Return all cards in your hand to your deck, and shuffle your deck. Then, draw cards equal to the number of cards returned to the deck."
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "strike",
+        "counter": 2000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Jack",
+        "id": "OP04-049",
+        "cardNo": "049",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-049.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[On K.O.] Draw 1 Card"
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Mr. Hanger",
+        "id": "OP04-050",
+        "cardNo": "050",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-050.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "East Blue"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[Main] You may trash 1 card from your hand and rest this character: Draw 1 card."
+        ],
+        "type": "character",
+        "power": 0,
+        "attribute": "wisdom",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Who's Who",
+        "id": "OP04-051",
+        "cardNo": "051",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-051.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[On Play] Look at the top 5 cards of your deck, reveal up to 1 {Animal Kingdom Pirates} type card other than [Who's Who] and add it to your hand. Place the remaining cards at the bottom of your deck in any order."
+        ],
+        "type": "character",
+        "power": 2000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Black Maria",
+        "id": "OP04-052",
+        "cardNo": "052",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-052.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[Activate: Main] (2) (You may rest the specified number of DON!! cards in your Cost Area) and you may rest this Character: Draw 1 card."
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "special",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Page One",
+        "id": "OP04-053",
+        "cardNo": "053",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-053.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[DON!!x1] [Once Per Turn] When you activate one of your events, draw 1 card. Then, place 1 card on bottom of your deck from your hand."
+        ],
+        "type": "character",
+        "power": 6000,
+        "attribute": "strike",
+        "counter": 0,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Rokki",
+        "id": "OP04-054",
+        "cardNo": "054",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-054.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Giant",
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 7000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 5,
+        "trigger": []
+    },
+    {
+        "name": "Plague Shot",
+        "id": "OP04-055",
+        "cardNo": "055",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-055.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[Main] You may trash 1 \"Ice Oni\" card from your hand and place 1 character of 4 cost or lower on the bottom of the owner's deck: Play 1 \"Ice Oni\" card from your trash."
+        ],
+        "type": "event",
+        "cost": 2,
+        "trigger": [
+            "Activate this card's [Main] effect"
+        ]
+    },
+    {
+        "name": "Gum-Gum Red Roc",
+        "id": "OP04-056",
+        "cardNo": "056",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-056.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[Main] Place up to 1 Character at the bottom of its owner's deck."
+        ],
+        "type": "event",
+        "cost": 6,
+        "trigger": [
+            "Place up to 1 Character with a cost of 4 or less at the bottom of its owner's deck."
+        ]
+    },
+    {
+        "name": "Dragon Twister Demolishing Wind",
+        "id": "OP04-057",
+        "cardNo": "057",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-057.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "The Four Emperors",
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[Counter] Give up to 1 of your leaders or characters +4000 Power this battle. Then, place up to 1 cost 1 or lower character on the bottom of its owner's deck."
+        ],
+        "type": "event",
+        "cost": 2,
+        "trigger": [
+            "Return up to 1 cost 6 or less character to its owner's hand."
+        ]
+    },
+    {
+        "name": "Crocodile",
+        "id": "OP04-058",
+        "cardNo": "058",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-058.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "L",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Baroque Works"
+        ],
+        "colors": [
+            "purple",
+            "yellow"
+        ],
+        "effect": [
+            "[Opponent's Turn] [Once per Turn] When you return DON!! from your field to the DON!! deck through one of your effects, add 1 DON!! from your DON!! deck as active."
+        ],
+        "type": "leader",
+        "power": 5000,
+        "life": 4,
+        "attribute": "special"
+    },
+    {
+        "name": "Iceburg",
+        "id": "OP04-059",
+        "cardNo": "059",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-059.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Water 7",
+            "Galley-La Company"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[On Opponent's Attack] DON!!-1 (You may return the specified number of DON!! cards from your field to your DON!! deck): If your leader is {W7} type, this character gains [Blocker] for the turn."
+        ],
+        "type": "character",
+        "power": 0,
+        "attribute": "wisdom",
+        "counter": 1000,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Crocodile",
+        "id": "OP04-060",
+        "cardNo": "060",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-060.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "SR",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Baroque Works"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[On Play] DON!!-2 (You may return the specified number of DON!! cards from your field to your DON!! deck): If your Leader's type includes {Baroque Works}, place up to 1 card from the top of your deck on top of your Life.\r",
+            "[On Your Opponent's Attack] [Once per Turn] DON!!-1 (You may return the specified number of DON!! cards from your field to your DON!! deck): Draw 1 card and trash 1 card in your hand."
+        ],
+        "type": "character",
+        "power": 9000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 8,
+        "trigger": []
+    },
+    {
+        "name": "Tom",
+        "id": "OP04-061",
+        "cardNo": "061",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-061.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Fish-Man",
+            "Water 7"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[Main] You may trash this character: If your leader is {Water 7} type, add up to 1 DON!! from your DON!! deck and set it rested."
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "wisdom",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Banana Crocodile",
+        "id": "OP04-062",
+        "cardNo": "062",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-062.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 7000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 6,
+        "trigger": []
+    },
+    {
+        "name": "Franky",
+        "id": "OP04-063",
+        "cardNo": "063",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-063.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Water 7",
+            "Franky Family"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[On Your Opponent’s Attack] [Once Per Turn] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck): If your Leader has the {Water 7} type, up to 1 of your Leader or Characters gains +1000 Power during this battle."
+        ],
+        "type": "character",
+        "power": 1000,
+        "attribute": "wisdom",
+        "counter": 2000,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Miss All Sunday",
+        "id": "OP04-064",
+        "cardNo": "064",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-064.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "SR",
+        "traits": [
+            "Baroque Works"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[On Play] Add up to 1 Don!! to your cost area and rest it. Then, if you have 6 or more Don!! draw 1 card."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 5,
+        "trigger": [
+            "Don!!-2 (You may return the specified number of DON!! cards from your field to your DON!! deck): Play this card."
+        ]
+    },
+    {
+        "name": "Miss Golden Week (Marianne)",
+        "id": "OP04-065",
+        "cardNo": "065",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-065.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Baroque Works"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[On Play] If your leader contains the {Baroque Works} type, up to 1 of your opponent's cost 5 or lower cards cannot attack until the beginning of your next turn."
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "wisdom",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": [
+            "DON!!-1 (You may return the specified number of DON!! cards from your field to your DON!! deck): Play this card."
+        ]
+    },
+    {
+        "name": "Miss Valentine (Mikita)",
+        "id": "OP04-066",
+        "cardNo": "066",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-066.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Baroque Works"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[On Play] Look at the top 5 cards of your deck, reveal 1 card with \"Baroque Works\" in one of its types and add it to your hand. Place the remaining cards at the bottom of your deck in any order."
+        ],
+        "type": "character",
+        "power": 2000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": [
+            "DON!!-1 (You may return the specified number of DON!! cards from your field to your DON!! deck): Play this card."
+        ]
+    },
+    {
+        "name": "Miss Merry Christmas (Drophy)",
+        "id": "OP04-067",
+        "cardNo": "067",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-067.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Baroque Works"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[Blocker]"
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "slash",
+        "counter": 0,
+        "cost": 4,
+        "trigger": [
+            "DON!!-1 (You may return the specified number of DON!! cards from your field to your DON!! deck): Play this card."
+        ]
+    },
+    {
+        "name": "Yokozuna",
+        "id": "OP04-068",
+        "cardNo": "068",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-068.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal",
+            "Water 7"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\r",
+            "[On Your Opponent's Attack] DON!!-1 (You may return the specified number of DON!! cards from your field to your DON!! deck): Return up to 1 of your opponent's Characters with a cost of 2 or less to its owner's hand."
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Mr. 2 Bon Clay (Bentham)",
+        "id": "OP04-069",
+        "cardNo": "069",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-069.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Baroque Works"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[On Opponent's Attack] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck): This character's original power becomes the attacking character or leader's power until the end of the turn"
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "strike",
+        "counter": 0,
+        "cost": 3,
+        "trigger": [
+            "DON!!-1 (You may return the specified number of DON!! cards from your field to your DON!! deck): Play this card."
+        ]
+    },
+    {
+        "name": "Mr. 3 (Galdino)",
+        "id": "OP04-070",
+        "cardNo": "070",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-070.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Baroque Works"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[On Opponent's Attack] [Once Per Turn] DON!!-1 (You may return the specified number of DON!! cards from your field to your DON!! deck): Give up to 1 of your opponent's characters -1000 Power for this turn."
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "special",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Mr. 4 (Babe)",
+        "id": "OP04-071",
+        "cardNo": "071",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-071.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Baroque Works"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[On Opponent's Attack] DON!!-1 (You may return the specified number of DON!! cards from your field to your DON!! deck): This character gains [Blocker] and +1000 Power for this battle."
+        ],
+        "type": "character",
+        "power": 6000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 5,
+        "trigger": []
+    },
+    {
+        "name": "Mr. 5 (Gem)",
+        "id": "OP04-072",
+        "cardNo": "072",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-072.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Baroque Works"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[On Opponent's Attack] [Once per Turn] Don -2, You may rest this character: KO Up to one of your opponents characters with a cost of 4 or less."
+        ],
+        "type": "character",
+        "power": 8000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 7,
+        "trigger": []
+    },
+    {
+        "name": "Mr. 13 & Miss Friday",
+        "id": "OP04-073",
+        "cardNo": "073",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-073.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal",
+            "Baroque Works"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[Main] You may trash this character and 1 character containing the {Baroque Works} type: Add 1 DON!! from the DON!! deck set as active."
+        ],
+        "type": "character",
+        "power": 1000,
+        "attribute": "wisdom",
+        "counter": 2000,
+        "cost": 3,
+        "trigger": [
+            "Play this Card"
+        ]
+    },
+    {
+        "name": "Colors Trap",
+        "id": "OP04-074",
+        "cardNo": "074",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-074.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Baroque Works"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[Counter] DON!!-1 (You may return the specified number of DON!! cards from your field to your DON!! deck): Give up to 1 of your leaders or characters +1000 Power for the battle. Then, rest up to 1 of your opponent's cost 4 or lower characters."
+        ],
+        "type": "event",
+        "cost": 1,
+        "trigger": [
+            "Add up to 1 DON!! card from your DON!! deck and set it as active"
+        ]
+    },
+    {
+        "name": "Nose Fancy Cannon",
+        "id": "OP04-075",
+        "cardNo": "075",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-075.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Baroque Works"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[Counter] Give up to 1 of your leaders or characters +6000 Power for this battle. Then, if your life is 2 or less, add up to 1 DON!! from your DON!! deck set as rested."
+        ],
+        "type": "event",
+        "cost": 3,
+        "trigger": [
+            "Add up to 1 DON!! card from your DON!! deck and set it as active"
+        ]
+    },
+    {
+        "name": "Weakness is a Sin",
+        "id": "OP04-076",
+        "cardNo": "076",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-076.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Baroque Works"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[Counter] DON!!-1 (You may return the specified number of DON!! cards from your field to your DON!! deck): Up to one of your leaders or characters gains +1000 Power this turn."
+        ],
+        "type": "event",
+        "cost": 1,
+        "trigger": [
+            "Add up to 1 DON!! card from your DON!! deck and set it as active"
+        ]
+    },
+    {
+        "name": "Ideo",
+        "id": "OP04-077",
+        "cardNo": "077",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-077.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Dressrosa"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[Blocker]"
+        ],
+        "type": "character",
+        "power": 2000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Oimo & Kashii",
+        "id": "OP04-078",
+        "cardNo": "078",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-078.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Giant",
+            "World Government"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 8000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 6,
+        "trigger": []
+    },
+    {
+        "name": "Orlombus",
+        "id": "OP04-079",
+        "cardNo": "079",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-079.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Dressrosa",
+            "Yontamaria Fleet"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[Activate Main] (Once per Turn) Reduce the cost of up to 1 of your opponent's Characters by -4 during this turn, and trash the top 2 cards of your deck. Then, K.O. 1 of your \"Dressrosa\" type Characters."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Gyats",
+        "id": "OP04-080",
+        "cardNo": "080",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-080.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Dressrosa"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[On Play] Up to 1 of your Characters with the {Dressrosa} type may attack your opponent's Characters in active during this turn."
+        ],
+        "type": "character",
+        "power": 1000,
+        "attribute": "wisdom",
+        "counter": 2000,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Cavendish",
+        "id": "OP04-081",
+        "cardNo": "081",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-081.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Dressrosa",
+            "Beautiful Pirates"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[DON!!x1] This Character can attack active Characters.\r",
+            "[When Attacking] You may rest your leader: K.O. up to one of your opponent's Characters that cost 1 or less. Then, trash 2 cards from the top of your deck."
+        ],
+        "type": "character",
+        "power": 6000,
+        "attribute": "slash",
+        "counter": 0,
+        "cost": 5,
+        "trigger": []
+    },
+    {
+        "name": "Kyros",
+        "id": "OP04-082",
+        "cardNo": "082",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-082.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Dressrosa"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "If this Character would be K.O.'ed, you may instead rest 1 of your Leaders or \"Corrida Colosseum\".\r",
+            "[On Play] If your Leader is \"Rebecca\", K.O. up to 1 of your opponent's Characters with a cost of 1 or less. Then, trash 1 card from the top of your deck."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "slash",
+        "counter": 0,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Sabo",
+        "id": "OP04-083",
+        "cardNo": "083",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-083.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "SR",
+        "traits": [
+            "Dressrosa",
+            "Revolutionary Army"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\r",
+            "[On Play] Your characters can't be K.O.'d by card effects until the start of your next turn. Draw 2, then trash 2. "
+        ],
+        "type": "character",
+        "power": 6000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 5,
+        "trigger": []
+    },
+    {
+        "name": "Stussy",
+        "id": "OP04-084",
+        "cardNo": "084",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-084.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "CP0"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[On Play] Look at the top 3 cards of your deck, play up to one 2 cost or lower character that contains the \"CP\" type other than \"Stussy\". Then, trash the rest."
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Suleiman",
+        "id": "OP04-085",
+        "cardNo": "085",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-085.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Dressrosa"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[On Play] / [When Attacking] If your leader is {Dressrosa} type, give -2 cost to up to one of your opponent's characters. Then, place 1 card from the top of your deck in the trash."
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Chinjao",
+        "id": "OP04-086",
+        "cardNo": "086",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-086.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Dressrosa",
+            "Happosui Army"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[DON!!x1] When the opponent's character battling this one is K.O.'d, draw 2 cards and trash 2 cards from your hand."
+        ],
+        "type": "character",
+        "power": 6000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 5,
+        "trigger": []
+    },
+    {
+        "name": "Trafalgar Law",
+        "id": "OP04-087",
+        "cardNo": "087",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-087.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Dressrosa",
+            "Heart Pirates"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 7000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 5,
+        "trigger": []
+    },
+    {
+        "name": "Hajrudin",
+        "id": "OP04-088",
+        "cardNo": "088",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-088.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Giant",
+            "Dressrosa",
+            "New Giant Pirates"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[Activate Main] You may rest 1 of your Leaders: Reduce the cost of up to 1 of your opponent's Characters by -4 during this turn."
+        ],
+        "type": "character",
+        "power": 7000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 6,
+        "trigger": []
+    },
+    {
+        "name": "Bartolomeo",
+        "id": "OP04-089",
+        "cardNo": "089",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-089.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Dressrosa",
+            "Barto Club"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)"
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "special",
+        "counter": 2000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "id": "OP04-090",
+        "cardNo": "090",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-090.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "SR",
+        "traits": [
+            "Dressrosa",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "This Character can attack active Characters. \r",
+            "[Activate: Main] [Once per Turn] You may return 7 cards from your trash to the bottom of your deck in any order: Set this Character to active. Then, during your next Refresh Phase, this Character cannot be set to active."
+        ],
+        "type": "character",
+        "power": 7000,
+        "attribute": "strike",
+        "counter": 0,
+        "cost": 7,
+        "trigger": []
+    },
+    {
+        "name": "Leo",
+        "id": "OP04-091",
+        "cardNo": "091",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-091.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Tontatta",
+            "Dressrosa"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[On Play] You may rest 1 of your Leader: If your Leader has the {Dressrosa} type, KO up to 1 of your opponents Cost 1 or lower Characters. Then, trash 2 cards from the top of your deck."
+        ],
+        "type": "character",
+        "power": 2000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Rebecca",
+        "id": "OP04-092",
+        "cardNo": "092",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-092.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Dressrosa"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[On Play] Look at the top 3 cards of your deck, reveal 1 {Dressrosa} type card other than \"Rebecca\" and add it to your hand. Then trash the remaining cards."
+        ],
+        "type": "character",
+        "power": 2000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Gum-Gum King Kong Gun",
+        "id": "OP04-093",
+        "cardNo": "093",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-093.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Dressrosa",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[Main] Choose one Dressrosa type character, power +6000. After, if your trash has 15 or more cards, this character gains [Double Attack] for the turn.\r"
+        ],
+        "type": "event",
+        "cost": 3,
+        "trigger": [
+            "Draw 3 Cards and trash 2 Cards"
+        ]
+    },
+    {
+        "name": "Destructive Sword of Thunder",
+        "id": "OP04-094",
+        "cardNo": "094",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-094.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Dressrosa"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[Main] Choose up to one of your opponent's cost 4 or lower characters and K.O. that character. If your trash has at least 15 cards, choose a 6 cost or lower character instead."
+        ],
+        "type": "event",
+        "cost": 4,
+        "trigger": [
+            "You may rest your leader: K.O. up to one of your opponent's cost 5 or lower characters.\r"
+        ]
+    },
+    {
+        "name": "Barrier!",
+        "id": "OP04-095",
+        "cardNo": "095",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-095.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Dressrosa",
+            "Barto Club"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[Counter] Up to one of your leaders or characters gains +2000 Power for this battle. If your trash has at least 15 cards, gain another +2000 Power."
+        ],
+        "type": "event",
+        "cost": 1,
+        "trigger": [
+            "Draw 2 Cards, and trash 1 Card"
+        ]
+    },
+    {
+        "name": "Corrodia Colosseum",
+        "id": "OP04-096",
+        "cardNo": "096",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-096.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Dressrosa"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "If your Leader has the {Dressrosa} type, your Characters that have the {Dressrosa} type can attack Characters on the turn they are played."
+        ],
+        "type": "stage",
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Otama",
+        "id": "OP04-097",
+        "cardNo": "097",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-097.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Land of Wano"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [
+            "[On Play] Place up to 1 of your opponent's {Animal} or {SMILE} type characters that costs 3 or less on top of their life area face-up."
+        ],
+        "type": "character",
+        "power": 0,
+        "attribute": "wisdom",
+        "counter": 1000,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Otoko",
+        "id": "OP04-098",
+        "cardNo": "098",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-098.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Land of Wano"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [
+            "[On Play] You may trash 2 cards with the {Land of Wano} type from your hand: If your life is 1 or less, add 1 card from the top of your deck to the top of your life."
+        ],
+        "type": "character",
+        "power": 0,
+        "attribute": "wisdom",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "O-Lin",
+        "id": "OP04-099",
+        "cardNo": "099",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-099.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Land of Wano",
+            "The Four Emperors",
+            "Big Mom Pirates"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [
+            "Also treat this card's name as [Charlotte Linlin] according to the rules"
+        ],
+        "type": "character",
+        "power": 7000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 7,
+        "trigger": [
+            "If you have 1 or less cards in your Life Area: You may play this card."
+        ]
+    },
+    {
+        "name": "Capone Bege",
+        "id": "OP04-100",
+        "cardNo": "100",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-100.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Firetank Pirates"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 3000,
+        "attribute": "ranged",
+        "counter": 2000,
+        "cost": 3,
+        "trigger": [
+            "Up to 1 of your opponent's leaders cannot attack during this turn"
+        ]
+    },
+    {
+        "name": "Caramel",
+        "id": "OP04-101",
+        "cardNo": "101",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-101.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Sheep's House"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [
+            "[Your Turn] [On Play] Draw 1 card."
+        ],
+        "type": "character",
+        "power": 1000,
+        "attribute": "wisdom",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": [
+            "Play this card. Then, K.O. up to 1 opponent's 2 cost or less character."
+        ]
+    },
+    {
+        "name": "Kinemon",
+        "id": "OP04-102",
+        "cardNo": "102",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-102.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Land of Wano"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [
+            "[Activate: Main] [Once Per Turn] (1) You may add one card from the top or bottom of your life to your hand: This card becomes active."
+        ],
+        "type": "character",
+        "power": 6000,
+        "attribute": "slash",
+        "counter": 0,
+        "cost": 6,
+        "trigger": []
+    },
+    {
+        "name": "Kozuki Hiyori",
+        "id": "OP04-103",
+        "cardNo": "103",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-103.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Land of Wano",
+            "Kozuki Clan"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [
+            "[On Play] Give up to 1 of your leaders or characters with the {Wano Country} type +1000 Power for this turn."
+        ],
+        "type": "character",
+        "power": 0,
+        "attribute": "wisdom",
+        "counter": 2000,
+        "cost": 2,
+        "trigger": [
+            "Play this Card"
+        ]
+    },
+    {
+        "name": "Sanji",
+        "id": "OP04-104",
+        "cardNo": "104",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-104.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "SR",
+        "traits": [
+            "Vinsmoke Family"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [
+            "[Blocker]"
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 4,
+        "trigger": [
+            "You may trash 1 card in your hand: Play this card."
+        ]
+    },
+    {
+        "name": "Charlotte Amande",
+        "id": "OP04-105",
+        "cardNo": "105",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-105.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "Big Mom Pirates"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [
+            "[Activate: Main] [Once Per Turn] You may trash 1 card with a [Trigger] from your hand: Rest up to 1 of your opponent's Characters with a cost of 2 or less."
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "slash",
+        "counter": 2000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Charlotte Bavarois",
+        "id": "OP04-106",
+        "cardNo": "106",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-106.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Big Mom Pirates"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [
+            "[DON!!x1] If you have less Life cards than your opponent, this Character gains +1000 power."
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": [
+            "You may trash 1 card in your hand: Play this card."
+        ]
+    },
+    {
+        "name": "Charlotte Perospero",
+        "id": "OP04-107",
+        "cardNo": "107",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-107.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Big Mom Pirates"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 8000,
+        "attribute": "special",
+        "counter": 1000,
+        "cost": 6,
+        "trigger": []
+    },
+    {
+        "name": "Charlotte Moscato",
+        "id": "OP04-108",
+        "cardNo": "108",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-108.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Big Mom Pirates"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [
+            "[DON!!x1] This character gains [Banish]"
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": [
+            "You may trash one card from your hand: Play this Card"
+        ]
+    },
+    {
+        "name": "Tonoyasu",
+        "id": "OP04-109",
+        "cardNo": "109",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-109.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Land of Wano"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [
+            "[Main] You may trash this character: Up to one of your leaders or characters with the {Wano Country} type gain +3000 Power for this turn."
+        ],
+        "type": "character",
+        "power": 2000,
+        "attribute": "special",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Pound",
+        "id": "OP04-110",
+        "cardNo": "110",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-110.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Whole Cake Island"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [
+            "[Blocker] [On K.O.] Place up to 1 of your opponent's cost 3 or lower characters on the top or bottom of your opponent's life face-up."
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "wisdom",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Hera",
+        "id": "OP04-111",
+        "cardNo": "111",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-111.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Big Mom Pirates",
+            "Homies"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [
+            "[Main] You may trash 1 character with the {Homies} type and rest this character: Set up to 1 of your \"Charlotte Linlin\" as active."
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "special",
+        "counter": 1000,
+        "cost": 5,
+        "trigger": [
+            "Play this Card"
+        ]
+    },
+    {
+        "name": "Yamato",
+        "id": "OP04-112",
+        "cardNo": "112",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-112.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "SR",
+        "traits": [
+            "Land of Wano"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [
+            "[On Play] K.O. up to one of your opponent's characters with a cost that is equal to or less than the total life of you and your opponent. Then, if you have 1 or less life, you may add up to 1 card from the top of your deck to your life area"
+        ],
+        "type": "character",
+        "power": 9000,
+        "attribute": "strike",
+        "counter": 0,
+        "cost": 9,
+        "trigger": []
+    },
+    {
+        "name": "Rabian",
+        "id": "OP04-113",
+        "cardNo": "113",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-113.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Big Mom Pirates",
+            "Homies"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 3000,
+        "attribute": "special",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": [
+            "Play this Card"
+        ]
+    },
+    {
+        "name": "Randolph",
+        "id": "OP04-114",
+        "cardNo": "114",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-114.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Big Mom Pirates",
+            "Homies"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 7000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 5,
+        "trigger": []
+    },
+    {
+        "name": "Gun Modoki",
+        "id": "OP04-115",
+        "cardNo": "115",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-115.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Land of Wano",
+            "Kozuki Clan"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [
+            "[Main] You may add 1 card from the top or bottom of your life to your hand: Up to 1 of your characters with the {Land of Wano} type gain [Double Attack] for the turn."
+        ],
+        "type": "event",
+        "cost": 1,
+        "trigger": [
+            "Up to 1 of your leaders or characters gains +1000 for the turn."
+        ]
+    },
+    {
+        "name": "Diable Jambe: Joue Shoot",
+        "id": "OP04-116",
+        "cardNo": "116",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-116.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "UC",
+        "traits": [
+            "Vinsmoke Family"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [
+            "[Counter] Up to 1 of your leaders or characters gains +6000 Power for this battle. Then, if you and your opponent's total life is 4 or less, K.O. up to 1 opponent's character of 2 cost or lower."
+        ],
+        "type": "event",
+        "cost": 3,
+        "trigger": [
+            "Draw 1 Card"
+        ]
+    },
+    {
+        "name": "Heavenly Fire",
+        "id": "OP04-117",
+        "cardNo": "117",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-117.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "R",
+        "traits": [
+            "The Four Emperors",
+            "Big Mom Pirates"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [
+            "[Main] Add up to 1 of your opponent's cost 3 or less characters to the top or bottom of your opponent's life face-up."
+        ],
+        "type": "event",
+        "cost": 1,
+        "trigger": [
+            "You may add 1 card to your hand from the top or bottom of your life: Place up to one card from your hand on top of your life."
+        ]
+    },
+    {
+        "name": "Nefertari Vivi",
+        "id": "OP04-118",
+        "cardNo": "118",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-118.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "SEC",
+        "traits": [
+            "Alabasta"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "All of your red Characters with a Cost of 3 or more than this Character gain [Rush]. "
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "wisdom",
+        "counter": 1000,
+        "cost": 7,
+        "trigger": []
+    },
+    {
+        "name": "Donquixote Rosinate",
+        "id": "OP04-119",
+        "cardNo": "119",
+        "set": "OP04",
+        "printings": [
+            {
+                "productID": "OP04",
+                "variant": "0",
+                "artUrl": "/OP04/OP04-119.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "SEC",
+        "traits": [
+            "Navy",
+            "Donquixote Pirates"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            " [Opponent's Turn] If this Character is rested, your active Characters with a base cost of 5 cannot be K.O.'d by effects.",
+            "[On Play] You may rest this Character: Play up to 1 green Character card with a cost of 5 from your hand."
+        ],
+        "type": "character",
+        "power": 8000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 8,
+        "trigger": []
+    }
+]

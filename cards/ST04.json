@@ -1,0 +1,726 @@
+[
+    {
+        "name": "Kaido",
+        "id": "ST04-001",
+        "cardNo": "001",
+        "set": "ST04",
+        "printings": [
+            {
+                "productID": "ST04",
+                "variant": "0",
+                "artUrl": "/ST04/ST04-001.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST04/ST04-001_Pre.jpg"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST04/ST04-001_Reprint.jpg"
+            }
+        ],
+        "rarity": "L",
+        "traits": [
+            "The Four Emperors",
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[Activate: Main] [Once Per Turn] DON!!-7 (You may return the specified number of DON!! cards from your field to your DON!! deck): trash 1 of your opponent's Life cards."
+        ],
+        "type": "leader",
+        "power": 5000,
+        "life": 5,
+        "attribute": "strike"
+    },
+    {
+        "name": "Ulti",
+        "id": "ST04-002",
+        "cardNo": "002",
+        "set": "ST04",
+        "printings": [
+            {
+                "productID": "ST04",
+                "variant": "0",
+                "artUrl": "/ST04/ST04-002.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST04/ST04-002_Pre.jpg"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST04/ST04-002_Reprint.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[On Play] DON!!-1 (You may return the specified number of DON!! cards from your field to your DON!! deck): Play up to 1 [Page One] card with a cost of 4 or less from your hand."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "strike",
+        "counter": 2000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Kaido",
+        "id": "ST04-003",
+        "cardNo": "003",
+        "set": "ST04",
+        "printings": [
+            {
+                "productID": "ST04",
+                "variant": "0",
+                "artUrl": "/ST04/ST04-003.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST04/ST04-003_Pre.jpg"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST04/ST04-003_Reprint.jpg"
+            }
+        ],
+        "rarity": "SR",
+        "traits": [
+            "The Four Emperors",
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[On Play] DON!!-5 (You may return the specified number of DON!! cards from your field to your DON!! deck): K.O. up to 1 of your opponent's Characters with a cost of 6 or less. This Character gains [Rush] during this turn. (This card can attack the turn it was played.)"
+        ],
+        "type": "character",
+        "power": 10000,
+        "attribute": "strike",
+        "counter": 0,
+        "cost": 9,
+        "trigger": []
+    },
+    {
+        "name": "King",
+        "id": "ST04-004",
+        "cardNo": "004",
+        "set": "ST04",
+        "printings": [
+            {
+                "productID": "ST04",
+                "variant": "0",
+                "artUrl": "/ST04/ST04-004.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST04/ST04-004_Pre.jpg"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST04/ST04-004_Reprint.jpg"
+            }
+        ],
+        "rarity": "SR",
+        "traits": [
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[On Play] DON!!-1 (You may return the specified number of DON!! cards from your field to your DON!! deck): K.O. up to 1 of your opponent's Characters with a cost of 4 or less."
+        ],
+        "type": "character",
+        "power": 7000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 6,
+        "trigger": []
+    },
+    {
+        "name": "Queen",
+        "id": "ST04-005",
+        "cardNo": "005",
+        "set": "ST04",
+        "printings": [
+            {
+                "productID": "ST04",
+                "variant": "0",
+                "artUrl": "/ST04/ST04-005.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST04/ST04-005_Pre.jpg"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Flag",
+                "label": "Flag",
+                "artUrl": "/ST04/ST04-005_Flag.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\r",
+            "[On Play] DON!!-1 (You may return the specified number of DON!! cards from your field to your DON!! deck): Draw 2 cards and trash 1 card from your hand."
+        ],
+        "type": "character",
+        "power": 6000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 5,
+        "trigger": []
+    },
+    {
+        "name": "Sasaki",
+        "id": "ST04-006",
+        "cardNo": "006",
+        "set": "ST04",
+        "printings": [
+            {
+                "productID": "ST04",
+                "variant": "0",
+                "artUrl": "/ST04/ST04-006.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST04/ST04-006_Pre.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[On Play] DON!!-1 (You may return the specified number of DON!! cards from your field to your DON!! deck): Draw 1 card."
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "ranged",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Sheepshead",
+        "id": "ST04-007",
+        "cardNo": "007",
+        "set": "ST04",
+        "printings": [
+            {
+                "productID": "ST04",
+                "variant": "0",
+                "artUrl": "/ST04/ST04-007.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST04/ST04-007_Pre.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal Kingdom Pirates",
+            "SMILE"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 4000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Jack",
+        "id": "ST04-008",
+        "cardNo": "008",
+        "set": "ST04",
+        "printings": [
+            {
+                "productID": "ST04",
+                "variant": "0",
+                "artUrl": "/ST04/ST04-008.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST04/ST04-008_Pre.jpg"
+            },
+            {
+                "productID": "ST04",
+                "variant": "On-Regionals",
+                "label": "On Regionals",
+                "artUrl": "/ST04/ST04-008_On-Regionals.jpg"
+            },
+            {
+                "productID": "ST04",
+                "variant": "On-Regional-Finalist",
+                "label": "On Regional Finalist",
+                "artUrl": "/ST04/ST04-008_On-Regional-Finalist.jpg"
+            },
+            {
+                "productID": "ST04",
+                "variant": "On-Regional-Winner",
+                "label": "On Regional Winner",
+                "artUrl": "/ST04/ST04-008_On-Regional-Winner.jpg"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Off-Regionals",
+                "label": "Off Regionals",
+                "artUrl": "/ST04/ST04-008_Off-Regionals.jpg"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Off-Regional-Finalist",
+                "label": "Off Regional Finalist",
+                "artUrl": "/ST04/ST04-008_Off-Regional-Finalist.jpg"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Off-Regional-Winner",
+                "label": "Off Regional Winner",
+                "artUrl": "/ST04/ST04-008_Off-Regional-Winner.jpg"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST04/ST04-008_Reprint.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[On Play] You may trash 1 card from your hand: Add up to 1 DON!! card from your DON!! deck and set it as active."
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Ginrummy",
+        "id": "ST04-009",
+        "cardNo": "009",
+        "set": "ST04",
+        "printings": [
+            {
+                "productID": "ST04",
+                "variant": "0",
+                "artUrl": "/ST04/ST04-009.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST04/ST04-009_Pre.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal Kingdom Pirates",
+            "SMILE"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 3000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Who's.Who",
+        "id": "ST04-010",
+        "cardNo": "010",
+        "set": "ST04",
+        "printings": [
+            {
+                "productID": "ST04",
+                "variant": "0",
+                "artUrl": "/ST04/ST04-010.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST04/ST04-010_Pre.jpg"
+            },
+            {
+                "productID": "ST04",
+                "variant": "SB",
+                "label": "SB",
+                "artUrl": "/ST04/ST04-010_SB.jpg"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST04/ST04-010_Reprint.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[On Play] DON!!-1 (You may return the specified number of DON!! cards from your field to your DON!! deck): K.O. up to 1 of your opponent's Characters with a cost of 3 or less."
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "slash",
+        "counter": 0,
+        "cost": 3,
+        "trigger": [
+            "Play this card."
+        ]
+    },
+    {
+        "name": "Black Maria",
+        "id": "ST04-011",
+        "cardNo": "011",
+        "set": "ST04",
+        "printings": [
+            {
+                "productID": "ST04",
+                "variant": "0",
+                "artUrl": "/ST04/ST04-011.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST04/ST04-011_Pre.jpg"
+            },
+            {
+                "productID": "ST04",
+                "variant": "SB",
+                "label": "SB",
+                "artUrl": "/ST04/ST04-011_SB.jpg"
+            },
+            {
+                "productID": "ST04",
+                "variant": "STV2-Win",
+                "label": "STV2 Win",
+                "artUrl": "/ST04/ST04-011_STV2-Win.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)"
+        ],
+        "type": "character",
+        "power": 2000,
+        "attribute": "special",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Page One",
+        "id": "ST04-012",
+        "cardNo": "012",
+        "set": "ST04",
+        "printings": [
+            {
+                "productID": "ST04",
+                "variant": "0",
+                "artUrl": "/ST04/ST04-012.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST04/ST04-012_Pre.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 6000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "X.Drake",
+        "id": "ST04-013",
+        "cardNo": "013",
+        "set": "ST04",
+        "printings": [
+            {
+                "productID": "ST04",
+                "variant": "0",
+                "artUrl": "/ST04/ST04-013.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST04/ST04-013_Pre.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Navy",
+            "Drake Pirates",
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 5000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Lead Performer \"Disaster\"",
+        "id": "ST04-014",
+        "cardNo": "014",
+        "set": "ST04",
+        "printings": [
+            {
+                "productID": "ST04",
+                "variant": "0",
+                "artUrl": "/ST04/ST04-014.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST04/ST04-014_Pre.jpg"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST04/ST04-014_Reprint.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[Main] Draw 1 card, then add up to 1 card from your DON!! deck and set it as active."
+        ],
+        "type": "event",
+        "cost": 4,
+        "trigger": [
+            "Activate this cards [Main] effect."
+        ]
+    },
+    {
+        "name": "Brachio Bomber",
+        "id": "ST04-015",
+        "cardNo": "015",
+        "set": "ST04",
+        "printings": [
+            {
+                "productID": "ST04",
+                "variant": "0",
+                "artUrl": "/ST04/ST04-015.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST04/ST04-015_Pre.jpg"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST04/ST04-015_Reprint.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[Main] K.O. up to 1 of your opponent's Characters with a cost of 6 or less, then add up to 1 DON!! card from your DON!! deck and set it as active."
+        ],
+        "type": "event",
+        "cost": 6,
+        "trigger": [
+            "Add up to 1 DON!! card from your DON!! deck and set it as active."
+        ]
+    },
+    {
+        "name": "Blast Breath",
+        "id": "ST04-016",
+        "cardNo": "016",
+        "set": "ST04",
+        "printings": [
+            {
+                "productID": "ST04",
+                "variant": "0",
+                "artUrl": "/ST04/ST04-016.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST04/ST04-016_Pre.jpg"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST04/ST04-016_Reprint.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "The Four Emperors",
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[Counter] DON!!-1 (You may return the specified number of DON!! cards from your field to your DON!! deck): Up to 1 of your Leader or Character cards gains +4000 Power during this battle."
+        ],
+        "type": "event",
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Onigashima",
+        "id": "ST04-017",
+        "cardNo": "017",
+        "set": "ST04",
+        "printings": [
+            {
+                "productID": "ST04",
+                "variant": "0",
+                "artUrl": "/ST04/ST04-017.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST04/ST04-017_Pre.jpg"
+            },
+            {
+                "productID": "ST04",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST04/ST04-017_Reprint.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[Activate: Main] You may rest this Stage: If your Leader has the {Animal Kingdom Pirates} type, add up to 1 DON!! card from DON!! deck and rest it."
+        ],
+        "type": "stage",
+        "cost": 3,
+        "trigger": []
+    }
+]

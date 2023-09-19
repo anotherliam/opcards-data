@@ -1,0 +1,26 @@
+[
+  {
+    "id": "red",
+    "label": "Red"
+  },
+  {
+    "id": "green",
+    "label": "Green"
+  },
+  {
+    "id": "blue",
+    "label": "Blue"
+  },
+  {
+    "id": "purple",
+    "label": "Purple"
+  },
+  {
+    "id": "yellow",
+    "label": "Yellow"
+  },
+  {
+    "id": "black",
+    "label": "Black"
+  }
+]

@@ -1,0 +1,1225 @@
+[
+    {
+        "name": "Monkey.D.Luffy",
+        "id": "P-001",
+        "cardNo": "001",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-001.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "P",
+                "variant": "Pre-Champ",
+                "label": "Pre Champ",
+                "artUrl": "/P/P-001_Pre-Champ.jpg"
+            },
+            {
+                "productID": "P",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/P/P-001_Pre.jpg"
+            },
+            {
+                "productID": "P",
+                "variant": "Champ",
+                "label": "Champ",
+                "artUrl": "/P/P-001_Champ.jpg"
+            },
+            {
+                "productID": "P",
+                "variant": "Ani",
+                "label": "Ani",
+                "artUrl": "/P/P-001_Ani.jpg"
+            },
+            {
+                "productID": "P",
+                "variant": "Red",
+                "label": "Red",
+                "artUrl": "/P/P-001_Red.jpg"
+            },
+            {
+                "productID": "P",
+                "variant": "Demo-2",
+                "label": "Demo 2",
+                "artUrl": "/P/P-001_Demo-2.jpg"
+            },
+            {
+                "productID": "P",
+                "variant": "TV",
+                "label": "TV",
+                "artUrl": "/P/P-001_TV.jpg"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "Supernovas",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[DON!! x2] This Character gains [Rush] (This card can attack the turn in which it is played.)"
+        ],
+        "type": "character",
+        "power": 7000,
+        "attribute": "strike",
+        "counter": 0,
+        "cost": 6,
+        "trigger": []
+    },
+    {
+        "name": "I Smell Adventure Ahead!",
+        "id": "P-002",
+        "cardNo": "002",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-002.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Main] Return all cards in your hand to your deck and shuffle your deck. Then, Draw cards equal to the number you returned to your deck."
+        ],
+        "type": "event",
+        "cost": 1,
+        "trigger": [
+            "Activate this card's [Main] effect."
+        ]
+    },
+    {
+        "name": "Eustass\"Captain\"Kid",
+        "id": "P-003",
+        "cardNo": "003",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-003.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "P",
+                "variant": "Champ",
+                "label": "Champ",
+                "artUrl": "/P/P-003_Champ.jpg"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "Supernovas",
+            "Kid Pirates"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[DON!! x2] This Character gains [Double Attack] (This card deals 2 damage.)"
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "special",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Crocodile",
+        "id": "P-004",
+        "cardNo": "004",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-004.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Baroque Works"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[DON!! x1] This Character gains [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)"
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "special",
+        "counter": 1000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Kaido",
+        "id": "P-005",
+        "cardNo": "005",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-005.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "The Four Emperors",
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[Activate: Main] DON!!-2 (You may return the specified number of DON!! cards to your DON!! deck): This Character gains [Banish] during this turn. (When this card deals damage, the target card is trashed without activating its Trigger.)"
+        ],
+        "type": "character",
+        "power": 8000,
+        "attribute": "strike",
+        "counter": 0,
+        "cost": 7,
+        "trigger": []
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "id": "P-006",
+        "cardNo": "006",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-006.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "P",
+                "variant": "STV1",
+                "label": "STV1",
+                "artUrl": "/P/P-006_STV1.jpg"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "Supernovas",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[DON!! x2] [Your Turn] This Character gains +2000 power."
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "strike",
+        "counter": 2000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "id": "P-007",
+        "cardNo": "007",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-007.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "P",
+                "variant": "STV1",
+                "label": "STV1",
+                "artUrl": "/P/P-007_STV1.jpg"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "Supernovas",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[DON!! x1] This Character cannot be K.O.'d when battling <Strike> attribute Leader or Characters."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Yamato",
+        "id": "P-008",
+        "cardNo": "008",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-008.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "P",
+                "variant": "STV1",
+                "label": "STV1",
+                "artUrl": "/P/P-008_STV1.jpg"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "Land of Wano"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[Activate: Main] You may rest this Character: Rest up to 1 of your opponent's Characters with a cost of 2 or less."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "strike",
+        "counter": 0,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Trafalgar Law",
+        "id": "P-009",
+        "cardNo": "009",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-009.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "P",
+                "variant": "STV1",
+                "label": "STV1",
+                "artUrl": "/P/P-009_STV1.jpg"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "Supernovas",
+            "Heart Pirates"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[On Play] If your opponent has 6 or more cards in their hand, your opponent adds 1 card from their Life area to their hand."
+        ],
+        "type": "character",
+        "power": 7000,
+        "attribute": "slash",
+        "counter": 0,
+        "cost": 6,
+        "trigger": []
+    },
+    {
+        "name": "Kaido",
+        "id": "P-010",
+        "cardNo": "010",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-010.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "P",
+                "variant": "STV1",
+                "label": "STV1",
+                "artUrl": "/P/P-010_STV1.jpg"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "The Four Emperors",
+            "Animal Kingdom Pirates"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[End of Your Turn] Add up to 1 DON!! card from your DON!! deck and set it as active."
+        ],
+        "type": "character",
+        "power": 9000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 8,
+        "trigger": []
+    },
+    {
+        "name": "Uta",
+        "id": "P-011",
+        "cardNo": "011",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-011.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "FILM"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Activate: Main] [Once Per Turn] (1) (You may rest the designated number for DON!! in your Cost Area): Up to 1 of your Characters with no base effect gains +2000 Power during this turn."
+        ],
+        "type": "leader",
+        "power": 5000,
+        "life": 5,
+        "attribute": "special"
+    },
+    {
+        "name": "Jellyfish Pirates",
+        "id": "P-012",
+        "cardNo": "012",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-012.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "FILM",
+            "Jellyfish Pirates"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 5000,
+        "attribute": "special",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Gordon",
+        "id": "P-013",
+        "cardNo": "013",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-013.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "FILM"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Activate: Main] You may place this Character at the bottom of the owner's deck: Give up to 1 of your opponent's Characters -3000 power during this turn."
+        ],
+        "type": "character",
+        "power": 2000,
+        "attribute": "wisdom",
+        "counter": 0,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Koby",
+        "id": "P-014",
+        "cardNo": "014",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-014.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "FILM",
+            "Navy"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)"
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "strike",
+        "counter": 0,
+        "cost": 3,
+        "trigger": [
+            "Play this card."
+        ]
+    },
+    {
+        "name": "Sunny-kun",
+        "id": "P-015",
+        "cardNo": "015",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-015.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "FILM",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 3000,
+        "attribute": "wisdom",
+        "counter": 1000,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Shanks",
+        "id": "P-016",
+        "cardNo": "016",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-016.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "P",
+                "variant": "Movie",
+                "label": "Movie",
+                "artUrl": "/P/P-016_Movie.jpg"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "FILM",
+            "The Four Emperors",
+            "Red-Haired Pirates"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 10000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 8,
+        "trigger": []
+    },
+    {
+        "name": "Trafalgar Law",
+        "id": "P-017",
+        "cardNo": "017",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-017.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "FILM",
+            "Supernovas",
+            "Heart Pirates"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[On Play] Give up to 1 of your opponent's Characters -2000 power during this turn."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Bartolomeo",
+        "id": "P-018",
+        "cardNo": "018",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-018.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "FILM",
+            "Supernovas",
+            "Barto Club"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)"
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "strike",
+        "counter": 0,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Bepo",
+        "id": "P-019",
+        "cardNo": "019",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-019.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "FILM",
+            "Minks",
+            "Heart Pirates"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[DON!! x1] [When attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less."
+        ],
+        "type": "character",
+        "power": 2000,
+        "attribute": "strike",
+        "counter": 2000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Helmeppo",
+        "id": "P-020",
+        "cardNo": "020",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-020.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "FILM",
+            "Navy"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[On Play] Up to 1 of your Leader or Character cards gains +1000 power during this turn."
+        ],
+        "type": "character",
+        "power": 2000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Benn.Beckman",
+        "id": "P-021",
+        "cardNo": "021",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-021.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "FILM",
+            "Red-Haired Pirates"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 9000,
+        "attribute": "ranged",
+        "counter": 1000,
+        "cost": 7,
+        "trigger": []
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "id": "P-022",
+        "cardNo": "022",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-022.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "P",
+                "variant": "Movie",
+                "label": "Movie",
+                "artUrl": "/P/P-022_Movie.jpg"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "FILM",
+            "Supernovas",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 6000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Yasopp",
+        "id": "P-023",
+        "cardNo": "023",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-023.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "FILM",
+            "Red-Haired Pirates"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 8000,
+        "attribute": "ranged",
+        "counter": 1000,
+        "cost": 6,
+        "trigger": []
+    },
+    {
+        "name": "I will become the Pirate King!!!!",
+        "id": "P-024",
+        "cardNo": "024",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-024.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "Supernovas",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[Main] Your leader gets +1000 power during this turn for each of your Characters."
+        ],
+        "type": "event",
+        "cost": 1,
+        "trigger": [
+            "Your leader or 1 of your Characters gets +1000 power during this turn."
+        ]
+    },
+    {
+        "name": "Smoker",
+        "id": "P-025",
+        "cardNo": "025",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-025.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[DON!!x1] This character can't be K.O.'d when battling Characters without <Special> attribute."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Smoker",
+        "id": "P-025",
+        "cardNo": "025",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-025.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[DON!!x1] This character can't be K.O.'d when battling Characters without <Special> attribute."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Morgan",
+        "id": "P-026",
+        "cardNo": "026",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-026.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[When Attacking] Give -3 cost to up to 1 of your opponent's Characters during this turn."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Franky Shogun",
+        "id": "P-027",
+        "cardNo": "027",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-027.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "This cards name is also treated as [Franky]\r",
+            "[Opponent's Turn] All your Characters with an original power of 3000 or less, +1000 power"
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "ranged",
+        "counter": 0,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Portgas.D.Ace",
+        "id": "P-028",
+        "cardNo": "028",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-028.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "P",
+                "variant": "Magazine",
+                "label": "Magazine",
+                "artUrl": "/P/P-028_Magazine.jpg"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "Whitebeard Pirates"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Double Attack] (This card deals 2 damage.)"
+        ],
+        "type": "character",
+        "power": 6000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 5,
+        "trigger": []
+    },
+    {
+        "name": "Bartolomeo",
+        "id": "P-029",
+        "cardNo": "029",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-029.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "FILM",
+            "Supernovas",
+            "Barto Club"
+        ],
+        "colors": [
+            "green"
+        ],
+        "effect": [
+            "[End of Your Turn] You may rest this Character: Set up to 1 of your {FILM} type Characters other than [Bartolomeo] as active."
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "special",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Jinbe",
+        "id": "P-030",
+        "cardNo": "030",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-030.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "Fish-Man",
+            "The Seven Warlords of the Sea",
+            "The Sun Pirates"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[On K.O.] Place up to 1 Character with a cost of 3 or lower at the bottom of the owner's deck."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Uta",
+        "id": "P-031",
+        "cardNo": "031",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-031.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "FILM"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "effect": [
+            "[On Play] Add up to 1 DON!! card from your DON!! deck and rest it."
+        ],
+        "type": "character",
+        "power": 6000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 5,
+        "trigger": []
+    },
+    {
+        "name": "Sengoku",
+        "id": "P-032",
+        "cardNo": "032",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-032.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[DON!! x1] [Your Turn] Give all of your opponent's Characters -2 cost."
+        ],
+        "type": "character",
+        "power": 6000,
+        "attribute": "wisdom",
+        "counter": 0,
+        "cost": 5,
+        "trigger": []
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "id": "P-033",
+        "cardNo": "033",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-033.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[Activate: Main] You may return this Character to the bottom of its owner's deck: Draw 1 card."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Sanji",
+        "id": "P-034",
+        "cardNo": "034",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-034.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "Vinsmoke Family"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [
+            "[DON!! x1] [Your Turn] While your Life stack has 2 or less cards, this Character gains +2000 power."
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "id": "P-035",
+        "cardNo": "035",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-035.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[DON!!x1] [When Attacking] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0."
+        ],
+        "type": "character",
+        "power": 6000,
+        "attribute": "strike",
+        "counter": 0,
+        "cost": 6,
+        "trigger": []
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "id": "P-036",
+        "cardNo": "036",
+        "set": "P",
+        "printings": [
+            {
+                "productID": "P",
+                "variant": "0",
+                "artUrl": "/P/P-036.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "P",
+        "traits": [
+            "Land of Wano",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "effect": [
+            "[When Attacking] You may add the top or bottom card of your Life area to your hand: Up to 1 of this Character and your Leader gains +1000 power for this turn."
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": []
+    }
+]

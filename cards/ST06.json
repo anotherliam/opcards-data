@@ -1,0 +1,510 @@
+[
+    {
+        "name": "Sakazuki",
+        "id": "ST06-001",
+        "cardNo": "001",
+        "set": "ST06",
+        "printings": [
+            {
+                "productID": "ST06",
+                "variant": "0",
+                "artUrl": "/ST06/ST06-001.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "L",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[Activate: Main] [Once Per Turn] (3) (Rest the specified number of DON!! cards in your Cost area.): trash 1 card from your hand; K.O. up to 1 Character with a cost of 0."
+        ],
+        "type": "leader",
+        "power": 5000,
+        "life": 5,
+        "attribute": "special"
+    },
+    {
+        "name": "Koby",
+        "id": "ST06-002",
+        "cardNo": "002",
+        "set": "ST06",
+        "printings": [
+            {
+                "productID": "ST06",
+                "variant": "0",
+                "artUrl": "/ST06/ST06-002.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST06",
+                "variant": "Demo-2",
+                "label": "Demo 2",
+                "artUrl": "/ST06/ST06-002_Demo-2.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[On Play] You may trash a card from your hand: K.O. up to 1 of your opponent's Characters that costs 0."
+        ],
+        "type": "character",
+        "power": 2000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Django",
+        "id": "ST06-003",
+        "cardNo": "003",
+        "set": "ST06",
+        "printings": [
+            {
+                "productID": "ST06",
+                "variant": "0",
+                "artUrl": "/ST06/ST06-003.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 3000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Smoker",
+        "id": "ST06-004",
+        "cardNo": "004",
+        "set": "ST06",
+        "printings": [
+            {
+                "productID": "ST06",
+                "variant": "0",
+                "artUrl": "/ST06/ST06-004.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "SR",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "This character can not be K.O.d by card effects.\r",
+            "[DON!! x1] As long as there is a Character that costs 0 in play, this character gains [Double Attack] (This card deals 2 damage)"
+        ],
+        "type": "character",
+        "power": 7000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 5,
+        "trigger": []
+    },
+    {
+        "name": "Sengoku",
+        "id": "ST06-005",
+        "cardNo": "005",
+        "set": "ST06",
+        "printings": [
+            {
+                "productID": "ST06",
+                "variant": "0",
+                "artUrl": "/ST06/ST06-005.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[When Attacking] For this turn, -4 cost for one of your opponent's characters."
+        ],
+        "type": "character",
+        "power": 6000,
+        "attribute": "wisdom",
+        "counter": 1000,
+        "cost": 5,
+        "trigger": []
+    },
+    {
+        "name": "Tashigi",
+        "id": "ST06-006",
+        "cardNo": "006",
+        "set": "ST06",
+        "printings": [
+            {
+                "productID": "ST06",
+                "variant": "0",
+                "artUrl": "/ST06/ST06-006.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST06",
+                "variant": "SB",
+                "label": "SB",
+                "artUrl": "/ST06/ST06-006_SB.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[Activate: Main] You may rest this Character: For this turn, -2 cost for up to one of your opponent's Characters."
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "slash",
+        "counter": 2000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Tsuru",
+        "id": "ST06-007",
+        "cardNo": "007",
+        "set": "ST06",
+        "printings": [
+            {
+                "productID": "ST06",
+                "variant": "0",
+                "artUrl": "/ST06/ST06-007.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)"
+        ],
+        "type": "character",
+        "power": 2000,
+        "attribute": "wisdom",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Hina",
+        "id": "ST06-008",
+        "cardNo": "008",
+        "set": "ST06",
+        "printings": [
+            {
+                "productID": "ST06",
+                "variant": "0",
+                "artUrl": "/ST06/ST06-008.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[On Play] For this turn, -4 cost for up to one of your opponent's characters."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Fullbody",
+        "id": "ST06-009",
+        "cardNo": "009",
+        "set": "ST06",
+        "printings": [
+            {
+                "productID": "ST06",
+                "variant": "0",
+                "artUrl": "/ST06/ST06-009.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 4000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Helmeppo",
+        "id": "ST06-010",
+        "cardNo": "010",
+        "set": "ST06",
+        "printings": [
+            {
+                "productID": "ST06",
+                "variant": "0",
+                "artUrl": "/ST06/ST06-010.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[On Play] -3 cost for up to 1 of your opponent's Characters during this turn."
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Momonga",
+        "id": "ST06-011",
+        "cardNo": "011",
+        "set": "ST06",
+        "printings": [
+            {
+                "productID": "ST06",
+                "variant": "0",
+                "artUrl": "/ST06/ST06-011.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 6000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Monkey.D.Garp",
+        "id": "ST06-012",
+        "cardNo": "012",
+        "set": "ST06",
+        "printings": [
+            {
+                "productID": "ST06",
+                "variant": "0",
+                "artUrl": "/ST06/ST06-012.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "SR",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[Activate: Main] Discard 1 card and rest this card: K.O. up to 1 of your opponent's cost 4 or lower Characters."
+        ],
+        "type": "character",
+        "power": 6000,
+        "attribute": "strike",
+        "counter": 0,
+        "cost": 5,
+        "trigger": []
+    },
+    {
+        "name": "T. Bone",
+        "id": "ST06-013",
+        "cardNo": "013",
+        "set": "ST06",
+        "printings": [
+            {
+                "productID": "ST06",
+                "variant": "0",
+                "artUrl": "/ST06/ST06-013.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 5000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Impact Wave",
+        "id": "ST06-014",
+        "cardNo": "014",
+        "set": "ST06",
+        "printings": [
+            {
+                "productID": "ST06",
+                "variant": "0",
+                "artUrl": "/ST06/ST06-014.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[Counter] Give up to 1 of your Leader or Characters +4000 Power. Then, K.O. up to 1 of your opponent's cost 3 or lower characters in active."
+        ],
+        "type": "event",
+        "cost": 2,
+        "trigger": [
+            "K.O. up to 1 of your opponent's cost 4 or lower Characters."
+        ]
+    },
+    {
+        "name": "Great Eruption",
+        "id": "ST06-015",
+        "cardNo": "015",
+        "set": "ST06",
+        "printings": [
+            {
+                "productID": "ST06",
+                "variant": "0",
+                "artUrl": "/ST06/ST06-015.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[Main] Draw 1 card. Give up to 1 of your opponent's Characters -2 cost for this turn."
+        ],
+        "type": "event",
+        "cost": 1,
+        "trigger": [
+            "Your opponent picks 1 card from their own hand and trashes it."
+        ]
+    },
+    {
+        "name": "White Out",
+        "id": "ST06-016",
+        "cardNo": "016",
+        "set": "ST06",
+        "printings": [
+            {
+                "productID": "ST06",
+                "variant": "0",
+                "artUrl": "/ST06/ST06-016.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[Counter] Give up to 1 of your Leader or Characters +2000 Power during this battle."
+        ],
+        "type": "event",
+        "cost": 1,
+        "trigger": [
+            "Draw 1. Your Characters cannot be K.O.'d during this turn."
+        ]
+    },
+    {
+        "name": "Marineford",
+        "id": "ST06-017",
+        "cardNo": "017",
+        "set": "ST06",
+        "printings": [
+            {
+                "productID": "ST06",
+                "variant": "0",
+                "artUrl": "/ST06/ST06-017.jpg",
+                "label": "Normal"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "black"
+        ],
+        "effect": [
+            "[On Play] Give up to 1 of your opponent's Characters -1 cost during this turn.\r",
+            "[Activate: Main] You may rest this Stage: If your Leader has the {Navy} type, give up to 1 of your opponent's Characters -1 cost during this turn."
+        ],
+        "type": "stage",
+        "cost": 1,
+        "trigger": []
+    }
+]

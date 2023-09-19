@@ -1,0 +1,861 @@
+[
+    {
+        "name": "Monkey.D.Luffy",
+        "id": "ST01-001",
+        "cardNo": "001",
+        "set": "ST01",
+        "printings": [
+            {
+                "productID": "ST01",
+                "variant": "0",
+                "artUrl": "/ST01/ST01-001.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST01/ST01-001_Pre.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Champ",
+                "label": "Champ",
+                "artUrl": "/ST01/ST01-001_Champ.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "3D",
+                "label": "3D",
+                "artUrl": "/ST01/ST01-001_3D.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST01/ST01-001_Reprint.jpg"
+            }
+        ],
+        "rarity": "L",
+        "traits": [
+            "Supernovas",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Activate: Main] [Once Per Turn] Give this Leader or 1 of your Characters up to 1 rested DON!! card."
+        ],
+        "type": "leader",
+        "power": 5000,
+        "life": 5,
+        "attribute": "strike"
+    },
+    {
+        "name": "Usopp",
+        "id": "ST01-002",
+        "cardNo": "002",
+        "set": "ST01",
+        "printings": [
+            {
+                "productID": "ST01",
+                "variant": "0",
+                "artUrl": "/ST01/ST01-002.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST01/ST01-002_Pre.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Ani",
+                "label": "Ani",
+                "artUrl": "/ST01/ST01-002_Ani.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Movie",
+                "label": "Movie",
+                "artUrl": "/ST01/ST01-002_Movie.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[DON!! x2] [When Attacking] Your opponent cannot activate a [Blocker] Character that has 5000 or more power during this battle."
+        ],
+        "type": "character",
+        "power": 2000,
+        "attribute": "ranged",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": [
+            "Play this card."
+        ]
+    },
+    {
+        "name": "Karoo",
+        "id": "ST01-003",
+        "cardNo": "003",
+        "set": "ST01",
+        "printings": [
+            {
+                "productID": "ST01",
+                "variant": "0",
+                "artUrl": "/ST01/ST01-003.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST01/ST01-003_Pre.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal",
+            "Alabasta"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 3000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Sanji",
+        "id": "ST01-004",
+        "cardNo": "004",
+        "set": "ST01",
+        "printings": [
+            {
+                "productID": "ST01",
+                "variant": "0",
+                "artUrl": "/ST01/ST01-004.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST01/ST01-004_Pre.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "On-Regionals",
+                "label": "On Regionals",
+                "artUrl": "/ST01/ST01-004_On-Regionals.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "On-Regional-Finalist",
+                "label": "On Regional Finalist",
+                "artUrl": "/ST01/ST01-004_On-Regional-Finalist.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "On-Regional-Winner",
+                "label": "On Regional Winner",
+                "artUrl": "/ST01/ST01-004_On-Regional-Winner.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Off-Regionals",
+                "label": "Off Regionals",
+                "artUrl": "/ST01/ST01-004_Off-Regionals.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Off-Regional-Finalist",
+                "label": "Off Regional Finalist",
+                "artUrl": "/ST01/ST01-004_Off-Regional-Finalist.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Off-Regional-Winner",
+                "label": "Off Regional Winner",
+                "artUrl": "/ST01/ST01-004_Off-Regional-Winner.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Movie",
+                "label": "Movie",
+                "artUrl": "/ST01/ST01-004_Movie.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[DON!! x2] This Character gains [Rush]. (This Character can attack on the turn in which it is played.)"
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "strike",
+        "counter": 0,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Jinbe",
+        "id": "ST01-005",
+        "cardNo": "005",
+        "set": "ST01",
+        "printings": [
+            {
+                "productID": "ST01",
+                "variant": "0",
+                "artUrl": "/ST01/ST01-005.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Ani",
+                "label": "Ani",
+                "artUrl": "/ST01/ST01-005_Ani.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST01/ST01-005_Pre.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST01/ST01-005_Reprint.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Demo-2",
+                "label": "Demo 2",
+                "artUrl": "/ST01/ST01-005_Demo-2.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Fish-Man",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[DON!! x1] [When Attacking] Up to 1 of your Leader or Character cards other than this card gains +1000 power during this turn."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "strike",
+        "counter": 0,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Tony Tony.Chopper",
+        "id": "ST01-006",
+        "cardNo": "006",
+        "set": "ST01",
+        "printings": [
+            {
+                "productID": "ST01",
+                "variant": "0",
+                "artUrl": "/ST01/ST01-006.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST01/ST01-006_Pre.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Champ",
+                "label": "Champ",
+                "artUrl": "/ST01/ST01-006_Champ.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Ani",
+                "label": "Ani",
+                "artUrl": "/ST01/ST01-006_Ani.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Movie",
+                "label": "Movie",
+                "artUrl": "/ST01/ST01-006_Movie.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Demo-2",
+                "label": "Demo 2",
+                "artUrl": "/ST01/ST01-006_Demo-2.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)"
+        ],
+        "type": "character",
+        "power": 1000,
+        "attribute": "strike",
+        "counter": 0,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Nami",
+        "id": "ST01-007",
+        "cardNo": "007",
+        "set": "ST01",
+        "printings": [
+            {
+                "productID": "ST01",
+                "variant": "0",
+                "artUrl": "/ST01/ST01-007.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST01/ST01-007_Pre.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "SB",
+                "label": "SB",
+                "artUrl": "/ST01/ST01-007_SB.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "SB-Win",
+                "label": "SB Win",
+                "artUrl": "/ST01/ST01-007_SB-Win.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Movie",
+                "label": "Movie",
+                "artUrl": "/ST01/ST01-007_Movie.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST01/ST01-007_Reprint.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters."
+        ],
+        "type": "character",
+        "power": 1000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Nico Robin",
+        "id": "ST01-008",
+        "cardNo": "008",
+        "set": "ST01",
+        "printings": [
+            {
+                "productID": "ST01",
+                "variant": "0",
+                "artUrl": "/ST01/ST01-008.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Demo",
+                "label": "Demo",
+                "artUrl": "/ST01/ST01-008_Demo.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST01/ST01-008_Pre.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Ani",
+                "label": "Ani",
+                "artUrl": "/ST01/ST01-008_Ani.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Demo-2",
+                "label": "Demo 2",
+                "artUrl": "/ST01/ST01-008_Demo-2.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 5000,
+        "attribute": "wisdom",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Nefertari Vivi",
+        "id": "ST01-009",
+        "cardNo": "009",
+        "set": "ST01",
+        "printings": [
+            {
+                "productID": "ST01",
+                "variant": "0",
+                "artUrl": "/ST01/ST01-009.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST01/ST01-009_Pre.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Giga",
+                "label": "Giga",
+                "artUrl": "/ST01/ST01-009_Giga.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Alabasta"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 4000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Franky",
+        "id": "ST01-010",
+        "cardNo": "010",
+        "set": "ST01",
+        "printings": [
+            {
+                "productID": "ST01",
+                "variant": "0",
+                "artUrl": "/ST01/ST01-010.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Demo",
+                "label": "Demo",
+                "artUrl": "/ST01/ST01-010_Demo.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST01/ST01-010_Pre.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Ani",
+                "label": "Ani",
+                "artUrl": "/ST01/ST01-010_Ani.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 6000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Brook",
+        "id": "ST01-011",
+        "cardNo": "011",
+        "set": "ST01",
+        "printings": [
+            {
+                "productID": "ST01",
+                "variant": "0",
+                "artUrl": "/ST01/ST01-011.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST01/ST01-011_Pre.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Movie",
+                "label": "Movie",
+                "artUrl": "/ST01/ST01-011_Movie.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "SB",
+                "label": "SB",
+                "artUrl": "/ST01/ST01-011_SB.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Demo-2",
+                "label": "Demo 2",
+                "artUrl": "/ST01/ST01-011_Demo-2.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters."
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "slash",
+        "counter": 2000,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "id": "ST01-012",
+        "cardNo": "012",
+        "set": "ST01",
+        "printings": [
+            {
+                "productID": "ST01",
+                "variant": "0",
+                "artUrl": "/ST01/ST01-012.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST01/ST01-012_Pre.jpg"
+            }
+        ],
+        "rarity": "SR",
+        "traits": [
+            "Supernovas",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Rush] (This Character can attack the turn it comes into play.)\r",
+            "[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle."
+        ],
+        "type": "character",
+        "power": 6000,
+        "attribute": "strike",
+        "counter": 0,
+        "cost": 5,
+        "trigger": []
+    },
+    {
+        "name": "Roronoa Zoro",
+        "id": "ST01-013",
+        "cardNo": "013",
+        "set": "ST01",
+        "printings": [
+            {
+                "productID": "ST01",
+                "variant": "0",
+                "artUrl": "/ST01/ST01-013.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Champ",
+                "label": "Champ",
+                "artUrl": "/ST01/ST01-013_Champ.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST01/ST01-013_Pre.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Movie",
+                "label": "Movie",
+                "artUrl": "/ST01/ST01-013_Movie.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "TV",
+                "label": "TV",
+                "artUrl": "/ST01/ST01-013_TV.jpg"
+            }
+        ],
+        "rarity": "SR",
+        "traits": [
+            "Supernovas",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[DON!! x1] This Character gains +1000 power."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "slash",
+        "counter": 0,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Guard Point",
+        "id": "ST01-014",
+        "cardNo": "014",
+        "set": "ST01",
+        "printings": [
+            {
+                "productID": "ST01",
+                "variant": "0",
+                "artUrl": "/ST01/ST01-014.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST01/ST01-014_Pre.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST01/ST01-014_Reprint.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Demo-2",
+                "label": "Demo 2",
+                "artUrl": "/ST01/ST01-014_Demo-2.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Animal",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle."
+        ],
+        "type": "event",
+        "cost": 1,
+        "trigger": [
+            "Up to 1 of your Leader or Character cards gains +1000 power during this turn."
+        ]
+    },
+    {
+        "name": "Gum-Gum Jet Pistol",
+        "id": "ST01-015",
+        "cardNo": "015",
+        "set": "ST01",
+        "printings": [
+            {
+                "productID": "ST01",
+                "variant": "0",
+                "artUrl": "/ST01/ST01-015.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST01/ST01-015_Pre.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST01/ST01-015_Reprint.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Demo-2",
+                "label": "Demo 2",
+                "artUrl": "/ST01/ST01-015_Demo-2.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Supernovas",
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Main] K.O. up to 1 of your opponent's Characters with 6000 power or less."
+        ],
+        "type": "event",
+        "cost": 4,
+        "trigger": [
+            "Activate this cards [Main] effect."
+        ]
+    },
+    {
+        "name": "Diable Jambe",
+        "id": "ST01-016",
+        "cardNo": "016",
+        "set": "ST01",
+        "printings": [
+            {
+                "productID": "ST01",
+                "variant": "0",
+                "artUrl": "/ST01/ST01-016.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST01/ST01-016_Pre.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST01/ST01-016_Reprint.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Main] Select up to 1 of your {Straw Hat Crew} type Leader or Character cards. Your opponent cannot activate [Blocker] if that Leader or Character attacks during this turn."
+        ],
+        "type": "event",
+        "cost": 1,
+        "trigger": [
+            "K.O. up to 1 of your opponent's [Blocker] Characters with a cost of 3 or less."
+        ]
+    },
+    {
+        "name": "Thousand Sunny",
+        "id": "ST01-017",
+        "cardNo": "017",
+        "set": "ST01",
+        "printings": [
+            {
+                "productID": "ST01",
+                "variant": "0",
+                "artUrl": "/ST01/ST01-017.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST01/ST01-017_Pre.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST01/ST01-017_Reprint.jpg"
+            },
+            {
+                "productID": "ST01",
+                "variant": "Demo-2",
+                "label": "Demo 2",
+                "artUrl": "/ST01/ST01-017_Demo-2.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Straw Hat Crew"
+        ],
+        "colors": [
+            "red"
+        ],
+        "effect": [
+            "[Activate: Main] You may rest this Stage: Up to 1 {Straw Hat Crew} type Leader or Character card on your field gains +1000 power during this turn."
+        ],
+        "type": "stage",
+        "cost": 2,
+        "trigger": []
+    }
+]

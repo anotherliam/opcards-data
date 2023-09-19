@@ -1,0 +1,62 @@
+[
+    {
+        "id": "OP01",
+        "name": "OP01",
+        "type": "core"
+    },
+    {
+        "id": "OP02",
+        "name": "OP02",
+        "type": "core"
+    },
+    {
+        "id": "OP03",
+        "name": "OP03",
+        "type": "core"
+    },
+    {
+        "id": "OP04",
+        "name": "OP04",
+        "type": "core"
+    },
+    {
+        "id": "P",
+        "name": "Prmos",
+        "type": "promo"
+    },
+    {
+        "id": "ST01",
+        "name": "ST01",
+        "type": "starter"
+    },
+    {
+        "id": "ST02",
+        "name": "ST02",
+        "type": "starter"
+    },
+    {
+        "id": "ST03",
+        "name": "ST03",
+        "type": "starter"
+    },
+    {
+        "id": "ST04",
+        "name": "ST04",
+        "type": "starter"
+    },
+    {
+        "id": "ST05",
+        "name": "ST05",
+        "type": "starter"
+    },
+    {
+        "id": "ST06",
+        "name": "ST06",
+        "type": "starter"
+    },
+    {
+        "id": "ST07",
+        "name": "ST07",
+        "type": "starter"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "id": "unknown",
+        "type": "promo",
+        "name": "Unknown"
+    },
+    {
+        "id": "OP01",
+        "type": "set",
+        "name": "OP01"
+    },
+    {
+        "id": "OP02",
+        "type": "set",
+        "name": "OP02"
+    },
+    {
+        "id": "OP03",
+        "type": "set",
+        "name": "OP03"
+    },
+    {
+        "id": "OP04",
+        "type": "set",
+        "name": "OP04"
+    }
+]

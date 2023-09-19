@@ -1,0 +1,733 @@
+[
+    {
+        "name": "Crocodile",
+        "id": "ST03-001",
+        "cardNo": "001",
+        "set": "ST03",
+        "printings": [
+            {
+                "productID": "ST03",
+                "variant": "0",
+                "artUrl": "/ST03/ST03-001.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST03/ST03-001_Pre.jpg"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST03/ST03-001_Reprint.jpg"
+            }
+        ],
+        "rarity": "L",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Baroque Works"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[Activate: Main] [Once Per Turn] DON!!-4 (You may return the specified number of DON!! cards from your field to your DON!! deck): Return up to 1 Character with a cost of 5 or less to the owner's hand."
+        ],
+        "type": "leader",
+        "power": 5000,
+        "life": 5,
+        "attribute": "special"
+    },
+    {
+        "name": "Edward Weevil",
+        "id": "ST03-002",
+        "cardNo": "002",
+        "set": "ST03",
+        "printings": [
+            {
+                "productID": "ST03",
+                "variant": "0",
+                "artUrl": "/ST03/ST03-002.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST03/ST03-002_Pre.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "The Seven Warlords of the Sea"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 5000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Crocodile",
+        "id": "ST03-003",
+        "cardNo": "003",
+        "set": "ST03",
+        "printings": [
+            {
+                "productID": "ST03",
+                "variant": "0",
+                "artUrl": "/ST03/ST03-003.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST03/ST03-003_Pre.jpg"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST03/ST03-003_Reprint.jpg"
+            }
+        ],
+        "rarity": "SR",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Baroque Works"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[Blocker] (After your opponent declares an attack, you can rest this card to make it the new target of the attack.)\r",
+            "[DON!! x1] [On Block] Place up to 1 Character with a cost of 2 or less to the bottom of its owner's deck."
+        ],
+        "type": "character",
+        "power": 6000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 5,
+        "trigger": []
+    },
+    {
+        "name": "Gecko Moria",
+        "id": "ST03-004",
+        "cardNo": "004",
+        "set": "ST03",
+        "printings": [
+            {
+                "productID": "ST03",
+                "variant": "0",
+                "artUrl": "/ST03/ST03-004.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST03/ST03-004_Pre.jpg"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST03/ST03-004_Reprint.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Thriller Bark Pirates"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[On Play] Add up to 1 {The Seven Warlords of the Sea} or {Thriller Bark Pirates} type Character with a cost of 4 or less other than [Gecko Moria] from your trash to your hand."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "special",
+        "counter": 1000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Dracule Mihawk",
+        "id": "ST03-005",
+        "cardNo": "005",
+        "set": "ST03",
+        "printings": [
+            {
+                "productID": "ST03",
+                "variant": "0",
+                "artUrl": "/ST03/ST03-005.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST03/ST03-005_Pre.jpg"
+            },
+            {
+                "productID": "ST03",
+                "variant": "SB",
+                "label": "SB",
+                "artUrl": "/ST03/ST03-005_SB.jpg"
+            },
+            {
+                "productID": "ST03",
+                "variant": "SB-Win",
+                "label": "SB Win",
+                "artUrl": "/ST03/ST03-005_SB-Win.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "The Seven Warlords of the Sea"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[DON!! x1] [When Attacking] Draw 2 cards and trash 2 cards from your hand."
+        ],
+        "type": "character",
+        "power": 5000,
+        "attribute": "slash",
+        "counter": 2000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Jinbe",
+        "id": "ST03-006",
+        "cardNo": "006",
+        "set": "ST03",
+        "printings": [
+            {
+                "productID": "ST03",
+                "variant": "0",
+                "artUrl": "/ST03/ST03-006.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST03/ST03-006_Pre.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Fish-Man",
+            "The Seven Warlords of the Sea",
+            "The Sun Pirates"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 4000,
+        "attribute": "strike",
+        "counter": 1000,
+        "cost": 2,
+        "trigger": []
+    },
+    {
+        "name": "Sentomaru",
+        "id": "ST03-007",
+        "cardNo": "007",
+        "set": "ST03",
+        "printings": [
+            {
+                "productID": "ST03",
+                "variant": "0",
+                "artUrl": "/ST03/ST03-007.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST03/ST03-007_Pre.jpg"
+            },
+            {
+                "productID": "ST03",
+                "variant": "SB",
+                "label": "SB",
+                "artUrl": "/ST03/ST03-007_SB.jpg"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST03/ST03-007_Reprint.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Navy"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[DON!! x1] [Activate: Main] [Once Per Turn] (2) (Rest the specified number of DON!! in your Cost Area.): Play up to 1 [Pacifista] with a cost of 4 or less from your deck, then shuffle your deck."
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 3,
+        "trigger": []
+    },
+    {
+        "name": "Trafalgar Law",
+        "id": "ST03-008",
+        "cardNo": "008",
+        "set": "ST03",
+        "printings": [
+            {
+                "productID": "ST03",
+                "variant": "0",
+                "artUrl": "/ST03/ST03-008.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST03/ST03-008_Pre.jpg"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Champ",
+                "label": "Champ",
+                "artUrl": "/ST03/ST03-008_Champ.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Heart Pirates"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)"
+        ],
+        "type": "character",
+        "power": 1000,
+        "attribute": "slash",
+        "counter": 0,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Donquixote Doflamingo",
+        "id": "ST03-009",
+        "cardNo": "009",
+        "set": "ST03",
+        "printings": [
+            {
+                "productID": "ST03",
+                "variant": "0",
+                "artUrl": "/ST03/ST03-009.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST03/ST03-009_Pre.jpg"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST03/ST03-009_Reprint.jpg"
+            }
+        ],
+        "rarity": "SR",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Donquixote Pirates"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[On Play] Return up to 1 Character with a cost of 7 or less to its owner's hand."
+        ],
+        "type": "character",
+        "power": 7000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 7,
+        "trigger": []
+    },
+    {
+        "name": "Bartholomew Kuma",
+        "id": "ST03-010",
+        "cardNo": "010",
+        "set": "ST03",
+        "printings": [
+            {
+                "productID": "ST03",
+                "variant": "0",
+                "artUrl": "/ST03/ST03-010.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST03/ST03-010_Pre.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Revolutionary Army"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[On Play] Look at 3 cards from the top of your deck and return them to the top or bottom of the deck in any order."
+        ],
+        "type": "character",
+        "power": 3000,
+        "attribute": "strike",
+        "counter": 0,
+        "cost": 2,
+        "trigger": [
+            "Play this card."
+        ]
+    },
+    {
+        "name": "Buggy",
+        "id": "ST03-011",
+        "cardNo": "011",
+        "set": "ST03",
+        "printings": [
+            {
+                "productID": "ST03",
+                "variant": "0",
+                "artUrl": "/ST03/ST03-011.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST03/ST03-011_Pre.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Buggys Delivery"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 3000,
+        "attribute": "slash",
+        "counter": 1000,
+        "cost": 1,
+        "trigger": []
+    },
+    {
+        "name": "Pacifista",
+        "id": "ST03-012",
+        "cardNo": "012",
+        "set": "ST03",
+        "printings": [
+            {
+                "productID": "ST03",
+                "variant": "0",
+                "artUrl": "/ST03/ST03-012.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST03/ST03-012_Pre.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "Biological Weapon",
+            "Navy"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [],
+        "type": "character",
+        "power": 6000,
+        "attribute": "special",
+        "counter": 1000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Boa Hancock",
+        "id": "ST03-013",
+        "cardNo": "013",
+        "set": "ST03",
+        "printings": [
+            {
+                "productID": "ST03",
+                "variant": "0",
+                "artUrl": "/ST03/ST03-013.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST03/ST03-013_Pre.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Kuja Pirates"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[Blocker] (After your opponent declares an attack, you can rest this card to make it the new target of the attack.)"
+        ],
+        "type": "character",
+        "power": 1000,
+        "attribute": "special",
+        "counter": 0,
+        "cost": 3,
+        "trigger": [
+            "Play this card."
+        ]
+    },
+    {
+        "name": "Marshal D. Teach",
+        "id": "ST03-014",
+        "cardNo": "014",
+        "set": "ST03",
+        "printings": [
+            {
+                "productID": "ST03",
+                "variant": "0",
+                "artUrl": "/ST03/ST03-014.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST03/ST03-014_Pre.jpg"
+            },
+            {
+                "productID": "ST03",
+                "variant": "On-Regionals",
+                "label": "On Regionals",
+                "artUrl": "/ST03/ST03-014_On-Regionals.jpg"
+            },
+            {
+                "productID": "ST03",
+                "variant": "On-Regional-Finalist",
+                "label": "On Regional Finalist",
+                "artUrl": "/ST03/ST03-014_On-Regional-Finalist.jpg"
+            },
+            {
+                "productID": "ST03",
+                "variant": "On-Regional-Winner",
+                "label": "On Regional Winner",
+                "artUrl": "/ST03/ST03-014_On-Regional-Winner.jpg"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Off-Regionals",
+                "label": "Off Regionals",
+                "artUrl": "/ST03/ST03-014_Off-Regionals.jpg"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Off-Regional-Finalist",
+                "label": "Off Regional Finalist",
+                "artUrl": "/ST03/ST03-014_Off-Regional-Finalist.jpg"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Off-Regional-Winner",
+                "label": "Off Regional Winner",
+                "artUrl": "/ST03/ST03-014_Off-Regional-Winner.jpg"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST03/ST03-014_Reprint.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Blackbeard Pirates"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[On Play] Return up to 1 Character with a cost of 3 or less to the owner's hand."
+        ],
+        "type": "character",
+        "power": 4000,
+        "attribute": "special",
+        "counter": 1000,
+        "cost": 4,
+        "trigger": []
+    },
+    {
+        "name": "Sables",
+        "id": "ST03-015",
+        "cardNo": "015",
+        "set": "ST03",
+        "printings": [
+            {
+                "productID": "ST03",
+                "variant": "0",
+                "artUrl": "/ST03/ST03-015.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST03/ST03-015_Pre.jpg"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST03/ST03-015_Reprint.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Baroque Works"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[Main] Return up to 1 Character with a cost of 7 or less to its owner's hand."
+        ],
+        "type": "event",
+        "cost": 4,
+        "trigger": [
+            "Activate this card's [Main] effect."
+        ]
+    },
+    {
+        "name": "Thrust Pad Cannon",
+        "id": "ST03-016",
+        "cardNo": "016",
+        "set": "ST03",
+        "printings": [
+            {
+                "productID": "ST03",
+                "variant": "0",
+                "artUrl": "/ST03/ST03-016.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST03/ST03-016_Pre.jpg"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST03/ST03-016_Reprint.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Revolutionary Army"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[Counter] Return up to 1 Character with a cost of 3 or less to its owner's hand."
+        ],
+        "type": "event",
+        "cost": 2,
+        "trigger": [
+            "Activate this card's [Counter] effect."
+        ]
+    },
+    {
+        "name": "Love Love Mellow",
+        "id": "ST03-017",
+        "cardNo": "017",
+        "set": "ST03",
+        "printings": [
+            {
+                "productID": "ST03",
+                "variant": "0",
+                "artUrl": "/ST03/ST03-017.jpg",
+                "label": "Normal"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Pre",
+                "label": "Pre",
+                "artUrl": "/ST03/ST03-017_Pre.jpg"
+            },
+            {
+                "productID": "ST03",
+                "variant": "Reprint",
+                "label": "Reprint",
+                "artUrl": "/ST03/ST03-017_Reprint.jpg"
+            }
+        ],
+        "rarity": "C",
+        "traits": [
+            "The Seven Warlords of the Sea",
+            "Kuja Pirates"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "effect": [
+            "[Counter] Up to 1 of your Leader or Character cards gains +4000 Power during this battle. Then, draw 1 card if you have 3 or less cards in your hand."
+        ],
+        "type": "event",
+        "cost": 2,
+        "trigger": []
+    }
+]
